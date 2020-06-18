@@ -58,4 +58,4 @@ the full [playlist] is on youtube
 - [stdin / stdout / stderr (beginner - intermediate)](https://www.youtube.com/watch?v=5za6eRdHjpw&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=52)
 - [hacker mode tmux debugging (intermediate)](https://www.youtube.com/watch?v=BMn0nSpeITY&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=53)
 - [regular expressions crash course (beginner - intermediate)](https://www.youtube.com/watch?v=yFRSpPwrJzQ&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=54)
-- [web security: what is a csrf exploit?](https://www.youtube.com/watch?v=MXZhe0KduyE&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=55)
+- [web security: what is a csrf exploit? (intermediate)](https://www.youtube.com/watch?v=MXZhe0KduyE&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=55)
