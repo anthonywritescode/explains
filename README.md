@@ -60,3 +60,4 @@ the full [playlist] is on youtube
 - [regular expressions crash course (beginner - intermediate)](https://www.youtube.com/watch?v=yFRSpPwrJzQ&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=54)
 - [web security: what is a csrf exploit? (intermediate)](https://www.youtube.com/watch?v=MXZhe0KduyE&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=55)
 - [python: functools.lru_cache (beginner - intermediate)](https://www.youtube.com/watch?v=K0Q5twtYxWY&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=56)
+- [python \_\_future\_\_ "module" (beginner - intermediatte)](https://www.youtube.com/watch?v=_K4mjPrROGQ&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=57)
