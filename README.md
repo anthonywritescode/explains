@@ -24,7 +24,7 @@ the full [playlist] is on youtube
 1. [pretty python profiling (intermediate)](https://www.youtube.com/watch?v=ey_P64E34g0&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=18)
 1. [python implicit string joining (beginner - intermediate)](https://www.youtube.com/watch?v=5Zto6VYsNsI&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=19)
 1. [postmortem debugging in python (beginner - intermediate)](https://www.youtube.com/watch?v=s8Nx2frW4ps&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=20)
-1. [configuration management (devops) (intermediate)](https://www.youtube.com/watch?v=aQTCDoZ4NFg&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=21)
+1. [configuration management (devops) (intermediate)](https://www.youtube.com/watch?v=aQTCDoZ4NFg&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=21) (puppet)
 1. [how to pronounce PyPI (beginner)](https://www.youtube.com/watch?v=I5OUzCAYst8&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=22)
 1. [all python argument / parameter types (beginner - intermediate)](https://www.youtube.com/watch?v=aKCfCmSggPg&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=23)
 1. [what is a tty? (beginner - intermediate)](https://www.youtube.com/watch?v=SYwbEcNrcjI&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=24)
