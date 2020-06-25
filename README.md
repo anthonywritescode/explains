@@ -62,3 +62,4 @@ the full [playlist] is on youtube
 1. [python: functools.lru_cache (beginner - intermediate)](https://www.youtube.com/watch?v=K0Q5twtYxWY&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=56)
 1. [python \_\_future\_\_ "module" (beginner - intermediate)](https://www.youtube.com/watch?v=_K4mjPrROGQ&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=57)
 1. [undoing an accidental git commit (intermediate)](https://www.youtube.com/watch?v=EcciszFDpn8&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=58)
+1. [python packaging: basic setup.py and declarative metadata (intermediate)](https://www.youtube.com/watch?v=GaWs-LenLYE&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=59&t=0s)
