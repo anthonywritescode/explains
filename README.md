@@ -63,3 +63,4 @@ the full [playlist] is on youtube
 1. [python \_\_future\_\_ "module" (beginner - intermediate)](https://www.youtube.com/watch?v=_K4mjPrROGQ&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=57)
 1. [undoing an accidental git commit (intermediate)](https://www.youtube.com/watch?v=EcciszFDpn8&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=58)
 1. [python packaging: basic setup.py and declarative metadata (intermediate)](https://www.youtube.com/watch?v=GaWs-LenLYE&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=59&t=0s)
+1. [what is deadsnakes? (beginner - intermediate)](https://www.youtube.com/watch?v=Xe40amojaXE&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=60)
