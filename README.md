@@ -66,3 +66,4 @@ the full [playlist] is on youtube
 1. [what is deadsnakes? (beginner - intermediate)](https://www.youtube.com/watch?v=Xe40amojaXE&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=60)
 1. [getting started with programming (beginner)](https://www.youtube.com/watch?v=khqIPspzh4A&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=61)
 1. [git show (+ some tips!) (beginner)](https://www.youtube.com/watch?v=gFKgEbbQRyQ&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=62)
+1. [python star imports (beginner - intermediate)](https://www.youtube.com/watch?v=gJJVXB5JLUk&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=63)
