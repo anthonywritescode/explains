@@ -72,3 +72,4 @@ the full [playlist] is on youtube
 1. [using the python \_\_import\_\_ builtin correctly (intermediate)](https://www.youtube.com/watch?v=3V3bv7FsR48&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=66&t=0s)
 1. [special paths: ~, ~user, ., .. (beginner)](https://www.youtube.com/watch?v=lyMQASRha9s&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=67)
 1. [protip: exiting really fast! (beginner)](https://www.youtube.com/watch?v=yLdxwugv4qM&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=68)
+1. [python Ellipsis (...) and typing (beginner - intermediate)](https://www.youtube.com/watch?v=yLwvOwTO068&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=69)
