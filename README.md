@@ -74,3 +74,4 @@ the full [playlist] is on youtube
 1. [protip: exiting really fast! (beginner)](https://www.youtube.com/watch?v=yLdxwugv4qM&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=68)
 1. [python Ellipsis (...) and typing (beginner - intermediate)](https://www.youtube.com/watch?v=yLwvOwTO068&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=69)
 1. [git cherry-pick (intermediate)](https://www.youtube.com/watch?v=hmMrtfyb1vc&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=70)
+1. [customizing the python repl (intermediate)](https://www.youtube.com/watch?v=vwu6i0ghwJU&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=71)
