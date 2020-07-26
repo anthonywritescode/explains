@@ -76,3 +76,4 @@ the full [playlist] is on youtube
 1. [git cherry-pick (intermediate)](https://www.youtube.com/watch?v=hmMrtfyb1vc&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=70)
 1. [customizing the python repl (intermediate)](https://www.youtube.com/watch?v=vwu6i0ghwJU&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=71)
 1. [what is PATH? (beginner - intermediate)](https://www.youtube.com/watch?v=ZpOoRSkm-dQ&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=72)
+1. [python packaging: data files (intermediate)](https://www.youtube.com/watch?v=bfyIrX4_yL8&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=73)
