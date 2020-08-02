@@ -78,3 +78,4 @@ the full [playlist] is on youtube
 1. [what is PATH? (beginner - intermediate)](https://www.youtube.com/watch?v=ZpOoRSkm-dQ&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=72)
 1. [python packaging: data files (intermediate)](https://www.youtube.com/watch?v=bfyIrX4_yL8&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=73)
 1. [a virtualenv from nothing! (beginner - intermediate)](https://www.youtube.com/watch?v=OXmYKh0eTQ8&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=74)
+1. [tox --devenv (beginner - intermediate)](https://www.youtube.com/watch?v=flJi2N3dDk0&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=75)
