@@ -81,3 +81,4 @@ the full [playlist] is on youtube
 1. [tox --devenv (beginner - intermediate)](https://www.youtube.com/watch?v=flJi2N3dDk0&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=75)
 1. [python packaging: optional dependencies (intermediate)](https://www.youtube.com/watch?v=yJyo-K7wW2g&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=76)
 1. [regexes: capture groups (beginner - intermediate)](https://www.youtube.com/watch?v=Cs2V6nRhWL4&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=77)
+1. [python typing: why not self? (intermediate)](https://www.youtube.com/watch?v=VumItqHMaTA&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=78)
