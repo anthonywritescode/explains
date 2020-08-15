@@ -83,3 +83,4 @@ the full [playlist] is on youtube
 1. [regexes: capture groups (beginner - intermediate)](https://www.youtube.com/watch?v=Cs2V6nRhWL4&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=77)
 1. [python typing: why not self? (intermediate)](https://www.youtube.com/watch?v=VumItqHMaTA&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=78)
 1. [generator basics (+typing) (beginner - intermediate)](https://www.youtube.com/watch?v=LjBa9sfJh7U&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=79)
+1. [stop using git add . (beginner - intermediate)](https://www.youtube.com/watch?v=GgIZbO2Hb5s&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=80)
