@@ -86,3 +86,4 @@ the full [playlist] is on youtube
 1. [stop using git add . (beginner - intermediate)](https://www.youtube.com/watch?v=GgIZbO2Hb5s&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=80)
 1. [why not global pip / virtualenv? (intermediate)](https://www.youtube.com/watch?v=O390_abzo08&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=81)
 1. [bash hash cache (beginner - intermediate)](https://www.youtube.com/watch?v=N13XEwdc_2k&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=82)
+1. [git: a checked-in directory (intermediate)](https://www.youtube.com/watch?v=_qCzcB80fAY&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=83)
