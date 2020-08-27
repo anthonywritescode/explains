@@ -89,3 +89,4 @@ the full [playlist] is on youtube
 1. [git: a checked-in directory (intermediate)](https://www.youtube.com/watch?v=_qCzcB80fAY&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=83)
 1. [typing: exception types (intermediate)](https://www.youtube.com/watch?v=22BvsKjHRfQ&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=84)
 1. [why you should end a file in a newline (beginner)](https://www.youtube.com/watch?v=r5nWtfwK_dk&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=85)
+1. [git workflow: branch name collisions (intermediate)](https://www.youtube.com/watch?v=XHU3Kvudraw&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=86)
