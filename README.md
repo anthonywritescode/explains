@@ -93,3 +93,4 @@ the full [playlist] is on youtube
 1. [sort your imports! (beginner - intermediate)](https://www.youtube.com/watch?v=Sjor8PZXnaw&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=87)
 1. [what is the underscore (\_) for? (beginner)](https://www.youtube.com/watch?v=VKz1aQbNnyI&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=88)
 1. [python curses: color (intermediate)](https://www.youtube.com/watch?v=M8gC65VgApM&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=89)
+1. [semantic versioning (beginner - intermediate)](https://www.youtube.com/watch?v=vRSw2f34RRU&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=90)
