@@ -96,3 +96,4 @@ the full [playlist] is on youtube
 1. [semantic versioning (beginner - intermediate)](https://www.youtube.com/watch?v=vRSw2f34RRU&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=90)
 1. [file modes and chmod (beginner - intermediate)](https://www.youtube.com/watch?v=BrBHUosstHg&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=91)
 1. [making a regex not match itself! (intermediate)](https://www.youtube.com/watch?v=4KLLctC0G6U&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=92)
+1. [I run "rm -rf /" and see what happens (beginner - intermediate)](https://www.youtube.com/watch?v=iqqNMZj608s&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=93)
