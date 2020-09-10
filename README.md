@@ -98,3 +98,4 @@ the full [playlist] is on youtube
 1. [making a regex not match itself! (intermediate)](https://www.youtube.com/watch?v=4KLLctC0G6U&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=92)
 1. [I run "rm -rf /" and see what happens (beginner - intermediate)](https://www.youtube.com/watch?v=iqqNMZj608s&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=93)
 1. [git fetch (--prune) (beginner - intermediate)](https://www.youtube.com/watch?v=oj19T3N2NHY&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=94)
+1. [top 10 new things in python3.9 (beginner - intermediate)](https://www.youtube.com/watch?v=Dtw0QJhepV0&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&index=95)
