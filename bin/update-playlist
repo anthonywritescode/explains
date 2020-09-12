@@ -1,0 +1,76 @@
+#!/usr/bin/env python3
+import argparse
+import json
+import re
+import urllib.request
+from typing import Any
+from typing import Dict
+
+WS_RE = re.compile(r'\s+')
+TRAILER_RE = re.compile(r' anthony explains #\d+$')
+
+
+def _fixup_title(s: str) -> str:
+    s = WS_RE.sub(' ', s)
+    s = TRAILER_RE.sub('', s)
+    # special case the first video
+    if s.endswith(' --'):
+        s = s[:-1 * len(' --')]
+    return s.strip().replace('\\', '\\\\').replace('_', r'\_')
+
+
+def _video_link(video: Dict[str, Any], playlist_id: str) -> str:
+    video_id = video['snippet']['resourceId']['videoId']
+    title = _fixup_title(video['snippet']['title'])
+    return f'[{title}](https://youtu.be/{video_id}?list={playlist_id})'
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser()
+    parser.add_argument('output')
+    args = parser.parse_args()
+
+    with open('config.json') as f:
+        contents = json.load(f)
+
+    playlist_id = contents['playlist_id']
+    api_key = contents['api_key']
+
+    url = 'https://www.googleapis.com/youtube/v3/playlistItems'
+    params = {
+        'part': 'snippet',
+        'playlistId': playlist_id,
+        'key': api_key,
+        'maxResults': 50,
+    }
+    videos = []
+    more_pages = True
+    while more_pages:
+        params_s = urllib.parse.urlencode(params)
+        response = json.load(urllib.request.urlopen(f'{url}?{params_s}'))
+        videos.extend(response['items'])
+        next_page_token = response.get('nextPageToken')
+        if next_page_token:
+            params['pageToken'] = next_page_token
+        else:
+            more_pages = False
+
+    with open(args.output, 'w') as f:
+        f.write('explains\n')
+        f.write('========\n')
+        f.write('\n')
+        f.write('the full [playlist] is on youtube\n')
+        f.write('\n')
+        playlist_link = f'https://www.youtube.com/playlist?list={playlist_id}'
+        f.write(f'[playlist]: {playlist_link}\n')
+        f.write('\n')
+
+        f.write(f'0. {_video_link(videos[0], playlist_id)}\n')
+        for video in videos[1:]:
+            f.write(f'1. {_video_link(video, playlist_id)}\n')
+
+    return 0
+
+
+if __name__ == '__main__':
+    exit(main())
