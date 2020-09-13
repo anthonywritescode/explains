@@ -96,6 +96,6 @@ the full [playlist] is on youtube
 1. [semantic versioning (beginner - intermediate)](https://youtu.be/vRSw2f34RRU?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [file modes and chmod (beginner - intermediate)](https://youtu.be/BrBHUosstHg?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [making a regex not match itself! (intermediate)](https://youtu.be/4KLLctC0G6U?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
-1. [I run "rm -rf /" and see what happens (beginner - intermediate)](https://youtu.be/iqqNMZj608s?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [I run 'rm -rf /' and see what happens (beginner - intermediate)](https://youtu.be/iqqNMZj608s?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [git fetch (--prune) (beginner - intermediate)](https://youtu.be/oj19T3N2NHY?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [top 10 new things in python3.9 (beginner - intermediate)](https://youtu.be/Dtw0QJhepV0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
