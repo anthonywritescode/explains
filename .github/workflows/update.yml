@@ -9,3 +9,14 @@ jobs:
     - uses: actions/checkout@v1
     - uses: actions/setup-python@v1
     - run: echo hello world
+    - run: ./bin/update-playlist README.md
+      env:
+        YOUTUBE_PLAYLIST_ID: PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY
+        YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+    - run: |
+        git remote set-url origin https://x-access-token:$GH_TOKEN@github.com/$GITHUB_REPOSITORY
+        git add -u
+        git -c author.name='Anthony Sottile' -c author.email=asottile@umich.edu commit -m 'update playlist'
+        git push origin HEAD
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

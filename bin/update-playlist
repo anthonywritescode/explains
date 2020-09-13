@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import argparse
-import json
+import os
 import re
 import urllib.request
 from typing import Any
@@ -30,11 +30,8 @@ def main() -> int:
     parser.add_argument('output')
     args = parser.parse_args()
 
-    with open('config.json') as f:
-        contents = json.load(f)
-
-    playlist_id = contents['playlist_id']
-    api_key = contents['api_key']
+    playlist_id = os.environ['YOUTUBE_PLAYLIST_ID']
+    api_key = os.environ['YOUTUBE_API_KEY']
 
     url = 'https://www.googleapis.com/youtube/v3/playlistItems'
     params = {
