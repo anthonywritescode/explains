@@ -1,8 +1,11 @@
 explains
 ========
 
+[update playlist]
+
 the full [playlist] is on youtube
 
+[update playlist]: https://github.com/anthonywritescode/explains/actions?query=workflow%3Aupdate
 [playlist]: https://www.youtube.com/playlist?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY
 
 0. [introducing anthony explains!](https://youtu.be/qvkppppy9K8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
