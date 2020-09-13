@@ -6,7 +6,10 @@ jobs:
     name: update
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v2
+      with:
+        ref: master
+        token: ${{ secrets.GITHUB_TOKEN }}
     - uses: actions/setup-python@v1
     - run: echo hello world
     - run: ./bin/update-playlist README.md
@@ -14,8 +17,5 @@ jobs:
         YOUTUBE_PLAYLIST_ID: PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY
         YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
     - run: |
-        git remote set-url origin https://x-access-token:$GH_TOKEN@github.com/$GITHUB_REPOSITORY
         git -c user.name='Anthony Sottile' -c user.email=asottile@umich.edu commit -a -m 'update playlist'
         git push origin HEAD
-      env:
-        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
