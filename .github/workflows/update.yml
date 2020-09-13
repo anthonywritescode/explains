@@ -16,7 +16,7 @@ jobs:
     - run: |
         git remote set-url origin https://x-access-token:$GH_TOKEN@github.com/$GITHUB_REPOSITORY
         git add -u
-        git -c author.name='Anthony Sottile' -c author.email=asottile@umich.edu commit -m 'update playlist'
+        git -c user.name='Anthony Sottile' -c user.email=asottile@umich.edu commit -m 'update playlist'
         git push origin HEAD
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
