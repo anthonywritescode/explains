@@ -57,8 +57,11 @@ def main() -> int:
         f.write('explains\n')
         f.write('========\n')
         f.write('\n')
+        f.write('[update playlist]\n')
+        f.write('\n')
         f.write('the full [playlist] is on youtube\n')
         f.write('\n')
+        f.write('[update playlist]: https://github.com/anthonywritescode/explains/actions?query=workflow%3Aupdate\n')  # noqa: E501
         playlist_link = f'https://www.youtube.com/playlist?list={playlist_id}'
         f.write(f'[playlist]: {playlist_link}\n')
         f.write('\n')
