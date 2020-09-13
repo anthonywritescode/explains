@@ -15,8 +15,7 @@ jobs:
         YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
     - run: |
         git remote set-url origin https://x-access-token:$GH_TOKEN@github.com/$GITHUB_REPOSITORY
-        git add -u
-        git -c user.name='Anthony Sottile' -c user.email=asottile@umich.edu commit -m 'update playlist'
+        git -c user.name='Anthony Sottile' -c user.email=asottile@umich.edu commit -a -m 'update playlist'
         git push origin HEAD
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
