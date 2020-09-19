@@ -105,3 +105,4 @@ the full [playlist] is on youtube
 1. [testing functools.lru\_cache with pytest! (beginner - intermediate)](https://youtu.be/ujRo8n0LsU4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [git: commit message pro tip (beginner - intermediate)](https://youtu.be/CWrBZeC2Qqs?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [typing: what is Type[X]? (intermediate)](https://youtu.be/_7EXU9cjBkg?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [python debugger crash course: pdb / breakpoint (beginner - intermediate)](https://youtu.be/0LPuG825eAk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
