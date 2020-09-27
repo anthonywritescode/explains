@@ -110,3 +110,4 @@ the full [playlist] is on youtube
 1. [git apply and manual stashing (intermediate) -](https://youtu.be/4LXTaikZfco?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [intro to python namedtuples! (beginner - intermediate)](https://youtu.be/iqXnBE4htUc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [namedtuple to json and other pitfalls (intermediate)](https://youtu.be/QOKqvuvA3ok?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [how namedtuple works (advanced)](https://youtu.be/sfDSQSj-uvQ?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
