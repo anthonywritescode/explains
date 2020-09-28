@@ -111,3 +111,4 @@ the full [playlist] is on youtube
 1. [intro to python namedtuples! (beginner - intermediate)](https://youtu.be/iqXnBE4htUc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [namedtuple to json and other pitfalls (intermediate)](https://youtu.be/QOKqvuvA3ok?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [how namedtuple works (advanced)](https://youtu.be/sfDSQSj-uvQ?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [why python -m pip? (beginner - intermediate)](https://youtu.be/gnYdk_U6UQ0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
