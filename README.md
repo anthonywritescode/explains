@@ -114,3 +114,4 @@ the full [playlist] is on youtube
 1. [why python -m pip? (beginner - intermediate)](https://youtu.be/gnYdk_U6UQ0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [fixing NameError / TypeError in python type annotations (intermediate)](https://youtu.be/zH_F2xC0LOk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [why backslash in triple-quoted-strings """\\ (intermediate)](https://youtu.be/WFggulJ81dM?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [what's (wrong with) hacktoberfest? (beginner)](https://youtu.be/dzRTR63Lzx8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
