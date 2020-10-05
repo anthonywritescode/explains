@@ -117,3 +117,4 @@ the full [playlist] is on youtube
 1. [what's (wrong with) hacktoberfest? (beginner)](https://youtu.be/dzRTR63Lzx8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [pure python windows .exe (no compiler!) (intermediate)](https://youtu.be/nzaH5n-Xk64?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python dist-packages vs. site-packages (intermediate)](https://youtu.be/aEB_EcgTiQo?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [testing optional python dependencies (intermediate)](https://youtu.be/PXu3KCMT3l4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
