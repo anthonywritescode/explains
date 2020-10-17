@@ -125,3 +125,4 @@ the full [playlist] is on youtube
 1. [python: comma, = assignment! (beginner - intermediate)](https://youtu.be/WLKi_gPKCp0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python typing: re.match and Optional (intermediate)](https://youtu.be/yH6L3UiK9WM?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python: .sort() vs sorted(...) (beginner - intermediate)](https://youtu.be/JZYWtmxaCeM?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [python typing: @property (beginner - intermediate)](https://youtu.be/Q0K8CKn5htI?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
