@@ -128,3 +128,4 @@ the full [playlist] is on youtube
 1. [python typing: @property (beginner - intermediate)](https://youtu.be/Q0K8CKn5htI?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python: 4 ways to set namedtuple defaults (intermediate)](https://youtu.be/w4o-GT_43Yw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is the /opt directory? (beginner - intermediate)](https://youtu.be/tzOImbBp17c?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [git: visualizing main line commits (intermediate)](https://youtu.be/UjCnvh6uAUs?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
