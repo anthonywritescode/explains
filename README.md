@@ -135,3 +135,4 @@ the full [playlist] is on youtube
 1. [how do editable pip installs work? (intermediate)](https://youtu.be/gYYi7varbmE?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is argv (and argc)? (beginner - intermediate)](https://youtu.be/guJj17ggtXU?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [is python with types faster? (intermediate)](https://youtu.be/mkT3KP2J15I?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [bash: multiple lines to stdin with heredocs (beginner - intermediate)](https://youtu.be/KeO-OGf8Tao?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
