@@ -136,3 +136,8 @@ the full [playlist] is on youtube
 1. [what is argv (and argc)? (beginner - intermediate)](https://youtu.be/guJj17ggtXU?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [is python with types faster? (intermediate)](https://youtu.be/mkT3KP2J15I?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [bash: multiple lines to stdin with heredocs (beginner - intermediate)](https://youtu.be/KeO-OGf8Tao?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [a python plugin system via entrypoints (intermediate)](https://youtu.be/fY3Y_xPKWNA?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [git diff A...B (3 dots) (beginner - intermediate)](https://youtu.be/WRXmm-E77aY?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [faster than git clone! (beginner - intermediate)](https://youtu.be/YtK1uOa2VpM?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [python: len(x) vs x.\_\_len\_\_() (beginner - intermediate)](https://youtu.be/KyqiduLIL5k?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [Private video](https://youtu.be/jCf3zi2m56c?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
