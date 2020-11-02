@@ -140,4 +140,5 @@ the full [playlist] is on youtube
 1. [git diff A...B (3 dots) (beginner - intermediate)](https://youtu.be/WRXmm-E77aY?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [faster than git clone! (beginner - intermediate)](https://youtu.be/YtK1uOa2VpM?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python: len(x) vs x.\_\_len\_\_() (beginner - intermediate)](https://youtu.be/KyqiduLIL5k?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
-1. [Private video](https://youtu.be/jCf3zi2m56c?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [python typing: Final / @final (intermediate)](https://youtu.be/jCf3zi2m56c?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [python: raw (NOT REGEX) r'strings' (beginner - intermediate)](https://youtu.be/RvoKwGekk1s?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
