@@ -36,7 +36,7 @@ def main() -> int:
 
     url = 'https://www.googleapis.com/youtube/v3/playlistItems'
     params = {
-        'part': 'snippet',
+        'part': 'snippet,status',
         'playlistId': playlist_id,
         'key': api_key,
         'maxResults': 50,
@@ -52,6 +52,11 @@ def main() -> int:
             params['pageToken'] = next_page_token
         else:
             more_pages = False
+
+    videos = [
+        video for video in videos
+        if video['status']['privacyStatus'] == 'public'
+    ]
 
     with open(args.output, 'w') as f:
         f.write('explains\n')
