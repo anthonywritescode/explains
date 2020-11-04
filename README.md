@@ -143,3 +143,4 @@ the full [playlist] is on youtube
 1. [python typing: Final / @final (intermediate)](https://youtu.be/jCf3zi2m56c?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python: raw (NOT REGEX) r'strings' (beginner - intermediate)](https://youtu.be/RvoKwGekk1s?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [a "hello world" python C extension (intermediate - advanced)](https://youtu.be/HrEzCI3jIHw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [making python releases less painful with abi3 (intermediate - advanced)](https://youtu.be/4uy0c855msk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
