@@ -19,5 +19,8 @@ jobs:
         YOUTUBE_PLAYLIST_ID: PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY
         YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
     - run: |
+        if git diff --quiet; then
+          exit 0
+        fi
         git -c user.name='Anthony Sottile' -c user.email=asottile@umich.edu commit -a -m 'update playlist'
         git push origin HEAD
