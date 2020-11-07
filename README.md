@@ -146,3 +146,4 @@ the full [playlist] is on youtube
 1. [making python releases less painful with abi3 (intermediate - advanced)](https://youtu.be/4uy0c855msk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [useful interview datastructures: defaultdict (beginner - intermediate)](https://youtu.be/sunYwbKAzI0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [reset a clone with git clean! (beginner - intermediate)](https://youtu.be/cE9IRYDMoS8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [with + context managers (part1: the hard way) (intermediate - advanced)](https://youtu.be/ExdtNMnP24I?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
