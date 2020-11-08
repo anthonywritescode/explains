@@ -147,3 +147,4 @@ the full [playlist] is on youtube
 1. [useful interview datastructures: defaultdict (beginner - intermediate)](https://youtu.be/sunYwbKAzI0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [reset a clone with git clean! (beginner - intermediate)](https://youtu.be/cE9IRYDMoS8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [with + context managers (part1: the hard way) (intermediate - advanced)](https://youtu.be/ExdtNMnP24I?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [with + context managers (part2: the easy way) (intermediate)](https://youtu.be/ucGpcA9r4hU?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
