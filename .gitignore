@@ -1,10 +1,3 @@
 /config.json
-*.egg-info
-*.py[co]
-/.coverage
-/.mypy_cache
-/.pytest_cache
-/.tox
-/dist
-/venv*
-.vscode/
+*.py[cod]
+venv/
