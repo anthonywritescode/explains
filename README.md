@@ -148,3 +148,4 @@ the full [playlist] is on youtube
 1. [reset a clone with git clean! (beginner - intermediate)](https://youtu.be/cE9IRYDMoS8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [with + context managers (part1: the hard way) (intermediate - advanced)](https://youtu.be/ExdtNMnP24I?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [with + context managers (part2: the easy way) (intermediate)](https://youtu.be/ucGpcA9r4hU?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [how @contextmanager works (with/contexts part 3) (advanced)](https://youtu.be/nr_q2y0qxFg?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
