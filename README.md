@@ -150,3 +150,4 @@ the full [playlist] is on youtube
 1. [with + context managers (part2: the easy way) (intermediate)](https://youtu.be/ucGpcA9r4hU?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [how @contextmanager works (with/contexts part 3) (advanced)](https://youtu.be/nr_q2y0qxFg?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [is python's round() broken? (beginner)](https://youtu.be/sIObDTFsKyI?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [useful interview datastructures: Counter (beginner - intermediate)](https://youtu.be/FzlJxKRPL-4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
