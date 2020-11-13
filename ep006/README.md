@@ -1,4 +1,4 @@
-# [python type(x).__name__ vs x.__class__.__name__ (intermediate)](https://youtu.be/6rAIttnm3Fs)
+# [python type(x).\_\_name\_\_ vs x.\_\_class\_\_.\_\_name\_\_ (intermediate)](https://youtu.be/6rAIttnm3Fs)
 
 Very short one, I explain why I prefer `type(x).__name__` vs `x.__class__.__name__`.  thanks to @alikus for the question!
 
