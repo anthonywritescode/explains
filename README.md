@@ -152,3 +152,4 @@ the full [playlist] is on youtube
 1. [is python's round() broken? (beginner)](https://youtu.be/sIObDTFsKyI?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [useful interview datastructures: Counter (beginner - intermediate)](https://youtu.be/FzlJxKRPL-4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [easy fake objects with python's SimpleNamespace (beginner - intermediate)](https://youtu.be/8XvyHj8ndg8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [what is a git tag? (beginner - intermediate)](https://youtu.be/34CQxHXzD4w?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
