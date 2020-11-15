@@ -154,3 +154,4 @@ the full [playlist] is on youtube
 1. [easy fake objects with python's SimpleNamespace (beginner - intermediate)](https://youtu.be/8XvyHj8ndg8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is a git tag? (beginner - intermediate)](https://youtu.be/34CQxHXzD4w?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python: typing *args / **kwargs (intermediate)](https://youtu.be/CqafM-bsnW0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [python typing: Optional is not optional! (intermediate)](https://youtu.be/7XZYlDpSxOU?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
