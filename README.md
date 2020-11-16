@@ -155,3 +155,4 @@ the full [playlist] is on youtube
 1. [what is a git tag? (beginner - intermediate)](https://youtu.be/34CQxHXzD4w?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python: typing *args / **kwargs (intermediate)](https://youtu.be/CqafM-bsnW0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python typing: Optional is not optional! (intermediate)](https://youtu.be/7XZYlDpSxOU?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [explains - mypy's "implicit optional" (and why I disable it) (intermediate)](https://youtu.be/sc1JfhSvSII?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
