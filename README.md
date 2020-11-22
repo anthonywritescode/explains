@@ -161,3 +161,4 @@ the full [playlist] is on youtube
 1. [what is docker and how does it work? (intermediate)](https://youtu.be/tWvQAxkMaWs?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [docker run: always use --rm! (beginner - intermediate)](https://youtu.be/0vxIyXgkihA?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is sass vs scss? (beginner)](https://youtu.be/EPpjU50TYHg?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [repeatedly checking command output (beginner - intermediate)](https://youtu.be/DUxS7zOhu1U?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
