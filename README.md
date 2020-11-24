@@ -163,3 +163,4 @@ the full [playlist] is on youtube
 1. [what is sass vs scss? (beginner)](https://youtu.be/EPpjU50TYHg?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [repeatedly checking command output (beginner - intermediate)](https://youtu.be/DUxS7zOhu1U?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [why do asset urls have hex segments? (beginner - intermediate)](https://youtu.be/h345YuE3lZ8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [python cffi tutorial (intermediate - advanced)](https://youtu.be/X5irxO5VCHw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
