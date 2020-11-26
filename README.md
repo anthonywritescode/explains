@@ -165,3 +165,4 @@ the full [playlist] is on youtube
 1. [why do asset urls have hex segments? (beginner - intermediate)](https://youtu.be/h345YuE3lZ8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python cffi tutorial (intermediate - advanced)](https://youtu.be/X5irxO5VCHw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python regex: \\d gotcha! (beginner - intermediate)](https://youtu.be/9dnZiCW1OHc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [customizing "command not found" (intermediate)](https://youtu.be/p4cpVggLuJk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
