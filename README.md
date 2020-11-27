@@ -166,3 +166,4 @@ the full [playlist] is on youtube
 1. [python cffi tutorial (intermediate - advanced)](https://youtu.be/X5irxO5VCHw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python regex: \\d gotcha! (beginner - intermediate)](https://youtu.be/9dnZiCW1OHc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [customizing "command not found" (intermediate)](https://youtu.be/p4cpVggLuJk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [why `docker build --pull`? (intermediate)](https://youtu.be/BP1v7XXlePM?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
