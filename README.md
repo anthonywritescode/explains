@@ -168,3 +168,4 @@ the full [playlist] is on youtube
 1. [customizing "command not found" (intermediate)](https://youtu.be/p4cpVggLuJk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [why `docker build --pull`? (intermediate)](https://youtu.be/BP1v7XXlePM?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [useful commands: `pstree` (beginner - intermediate)](https://youtu.be/Omu4tXtlULU?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [don't use os.system! (beginner - intermediate)](https://youtu.be/oQxTSDh-ECk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
