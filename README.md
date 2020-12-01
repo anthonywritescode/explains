@@ -170,3 +170,4 @@ the full [playlist] is on youtube
 1. [useful commands: `pstree` (beginner - intermediate)](https://youtu.be/Omu4tXtlULU?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [don't use os.system! (beginner - intermediate)](https://youtu.be/oQxTSDh-ECk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python: all about comprehensions! (beginner - intermediate)](https://youtu.be/f-Q5VZlPjhI?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [python: os.exec* vs subprocess (intermediate)](https://youtu.be/xTiPODNalrU?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
