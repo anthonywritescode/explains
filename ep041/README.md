@@ -5,7 +5,7 @@ Today I show how to implement an argparse --version option using importlib.metad
 ## Setup commands
 
 ```bash
-git clone git@github.com:asottile/astpretty.git
+git clone git@github.com:asottile/astpretty
 
 tox --devenv venv
 

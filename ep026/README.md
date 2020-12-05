@@ -13,7 +13,7 @@ a()
 ### Bash
 
 ```bash
-git clone https://github.com/PyCQA/pycodestyle.git
+git clone https://github.com/PyCQA/pycodestyle
 cd pycodestyle
 python -m pycodestyle t.py
 python -m pycodestyle t.py --ignore W191
