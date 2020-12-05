@@ -174,3 +174,4 @@ the full [playlist] is on youtube
 1. [python typing: @overload (intermediate)](https://youtu.be/rY9NZ-tXiDQ?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [structural subtyping in python with Protocol! (intermediate)](https://youtu.be/QjFChmQHJxk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is virtualenvwrapper + quick start (beginner - intermediate)](https://youtu.be/vnXUBoOqGWQ?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [github tweak: custom tab width (beginner)](https://youtu.be/GYPRBVmw1Pc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
