@@ -7,8 +7,8 @@ Today I show the process I use to make pull requests to projects!  I walk throug
 ### Bash
 
 ```bash
-git clone git@github.com:<YOUR_GITHUB_USERNAME>/<REPOSITORY_NAME>.git
-cd <REPOSITORY_NAME>/
+git clone git@github.com:<your_github_username>/<repository_name>
+cd <repository_name>/
 git branch
 
 git checkout origin/master -b fix_typo
@@ -19,9 +19,9 @@ git diff
 git diff --word-diff
 
 git status
-git add <NAME_OF_CHANGED_FILE>
+git add <name_of_changed_file>
 git status
-git commit -m "Fixed typo in <NAME_OF_CHANGED_FILE>"
+git commit -m "Fixed typo in <name_of_changed_file>"
 
 git branch
 git status

@@ -5,7 +5,7 @@ Today I show how to ignore noisy whitespace changes in git so you can focus on t
 ## Setup commands
 
 ```bash
-git clone git@github.com:pre-commit/action.git
+git clone git@github.com:pre-commit/action
 ```
 
 ## Interactive examples

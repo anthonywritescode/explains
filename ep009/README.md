@@ -5,8 +5,8 @@ Why are all your thumbnails so uniform? I show my mostly-automated process for g
 ## Setup commands
 
 ```bash
-git clone https://github.com/anthonywritescode/thumbnails.git
-# git clone git@github.com:anthonywritescode/thumbnails.git
+git clone https://github.com/anthonywritescode/thumbnails
+# git clone git@github.com:anthonywritescode/thumbnails
 
 cd thumbnails
 
