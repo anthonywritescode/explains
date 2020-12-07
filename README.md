@@ -176,3 +176,4 @@ the full [playlist] is on youtube
 1. [what is virtualenvwrapper + quick start (beginner - intermediate)](https://youtu.be/vnXUBoOqGWQ?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [github tweak: custom tab width (beginner)](https://youtu.be/GYPRBVmw1Pc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is advent of code? (beginner)](https://youtu.be/QAwQ8eKBpYw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [what is atomicity (intermediate)](https://youtu.be/tmlmCG5egI0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
