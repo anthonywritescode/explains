@@ -178,3 +178,4 @@ the full [playlist] is on youtube
 1. [what is advent of code? (beginner)](https://youtu.be/QAwQ8eKBpYw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is atomicity (intermediate)](https://youtu.be/tmlmCG5egI0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python: what is `nonlocal` (intermediate)](https://youtu.be/evYOlT1T7Mo?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [python typing: Literal (intermediate)](https://youtu.be/ZHisrvgF1Wk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
