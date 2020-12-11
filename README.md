@@ -180,3 +180,4 @@ the full [playlist] is on youtube
 1. [python: what is `nonlocal` (intermediate)](https://youtu.be/evYOlT1T7Mo?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python typing: Literal (intermediate)](https://youtu.be/ZHisrvgF1Wk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [counting in binary / 2s complement (beginner - intermediate)](https://youtu.be/G1teq9UZ4kM?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [oops I typed `git git ...` again (beginner - intermediate)](https://youtu.be/BkUW2NgfZao?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
