@@ -184,3 +184,4 @@ the full [playlist] is on youtube
 1. [python: binary search the easy way (interview tips) (intermediate)](https://youtu.be/icoYNPoTZ44?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [pytest: parametrize permutation (intermediate)](https://youtu.be/QIUrd327tOQ?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [more powerful than control-C (beginner - intermediate)](https://youtu.be/_f8xgOMGO-g?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [pytest: testing exceptions (beginner - intermediate)](https://youtu.be/6nRxZyQwwlE?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
