@@ -187,3 +187,4 @@ the full [playlist] is on youtube
 1. [pytest: testing exceptions (beginner - intermediate)](https://youtu.be/6nRxZyQwwlE?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is a pager / less ? (beginner - intermediate) anthony explains](https://youtu.be/hxvAEr9Q2A4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python: naming and underscores (beginner - intermediate)](https://youtu.be/q1E-d7PvSSY?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [what is the bang (!) in git aliases (beginner - intermediate)](https://youtu.be/-Ur2OGPCZhk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
