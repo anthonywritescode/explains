@@ -189,3 +189,4 @@ the full [playlist] is on youtube
 1. [python: naming and underscores (beginner - intermediate)](https://youtu.be/q1E-d7PvSSY?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is the bang (!) in git aliases (beginner - intermediate)](https://youtu.be/-Ur2OGPCZhk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python typing: aliases (beginner - intermediate)](https://youtu.be/4zcrkP2VPSs?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [argparse: making a command wrapper (parse\_known\_args) (intermediate)](https://youtu.be/sCbC8hkg_xs?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
