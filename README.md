@@ -192,3 +192,4 @@ the full [playlist] is on youtube
 1. [argparse: making a command wrapper (parse\_known\_args) (intermediate)](https://youtu.be/sCbC8hkg_xs?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [bash protip: fc "fix command" (beginner - intermediate)](https://youtu.be/PPovOOA7bdU?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python integer literal underscores! (beginner)](https://youtu.be/BkKVVRLHE5Y?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [what is `git -C ...` (intermediate)](https://youtu.be/YXDn2qtK8GI?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
