@@ -195,3 +195,4 @@ the full [playlist] is on youtube
 1. [what is `git -C ...` (intermediate)](https://youtu.be/YXDn2qtK8GI?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [bash: pushd / popd (beginner - intermediate)](https://youtu.be/_cYaToOFml8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is `cd -` / `git checkout -` (beginner)](https://youtu.be/sb1itVtABEk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [typing: Protocol + @runtime\_checkable (intermediate)](https://youtu.be/4y94mvp_rYw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
