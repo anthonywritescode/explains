@@ -199,3 +199,4 @@ the full [playlist] is on youtube
 1. [what is a singleton? (and python patterns) (intermediate - advanced)](https://youtu.be/PBCsN29ZG9A?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python: conditional context and ExitStack (intermediate)](https://youtu.be/FHixla7BLvI?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python deque (useful interview datastructures) (intermediate)](https://youtu.be/obXt90bzgJo?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [images in the terminal? what is a sixel (beginner - intermediate)](https://youtu.be/fa9ik_OnLmg?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
