@@ -200,3 +200,4 @@ the full [playlist] is on youtube
 1. [python: conditional context and ExitStack (intermediate)](https://youtu.be/FHixla7BLvI?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python deque (useful interview datastructures) (intermediate)](https://youtu.be/obXt90bzgJo?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [images in the terminal? what is a sixel (beginner - intermediate)](https://youtu.be/fa9ik_OnLmg?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [useful tools: uq (beginner - intermediate)](https://youtu.be/K8jmAQnPE2c?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
