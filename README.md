@@ -203,3 +203,4 @@ the full [playlist] is on youtube
 1. [useful tools: uq (beginner - intermediate)](https://youtu.be/K8jmAQnPE2c?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [git: cleaning up merged branches (beginner - intermediate)](https://youtu.be/5O8PzE4nJTQ?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python: decorating a class (intermediate) anthony explains#194](https://youtu.be/xwsgV3yAtmw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [python: class-based @decorators (intermediate - advanced)](https://youtu.be/hTLDC9H1b4Q?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
