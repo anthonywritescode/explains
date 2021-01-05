@@ -205,3 +205,4 @@ the full [playlist] is on youtube
 1. [python: decorating a class (intermediate) anthony explains#194](https://youtu.be/xwsgV3yAtmw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python: class-based @decorators (intermediate - advanced)](https://youtu.be/hTLDC9H1b4Q?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [intro to git lfs (intermediate)](https://youtu.be/c6BRKcO5WxE?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [python scoping (beginner - intermediate)](https://youtu.be/xb_zV3gaDxY?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
