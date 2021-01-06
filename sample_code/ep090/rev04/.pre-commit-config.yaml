@@ -1,0 +1,11 @@
+repos:
+-   repos: local
+    hooks:
+    -   id: no-dontship
+        name: no DONTSHIP comments
+        # ^, $
+        # \b: an empty string anchor at a word boundary
+        # \B: non-word-boundary
+        entry: '# [D]ONTHSIP:'
+        language: pygrep
+        types: [text]

@@ -1,0 +1,8 @@
+repos:
+-   repos: local
+    hooks:
+    -   id: no-dontship
+        name: no DONTSHIP comments
+        entry: '# DONTHSIP:'
+        language: pygrep
+        types: [text]
