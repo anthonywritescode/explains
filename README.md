@@ -1,5 +1,3 @@
-[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/anthonywritescode/explains/master.svg)](https://results.pre-commit.ci/latest/github/anthonywritescode/explains/master)
-
 explains
 ========
 
@@ -209,3 +207,4 @@ the full [playlist] is on youtube
 1. [intro to git lfs (intermediate)](https://youtu.be/c6BRKcO5WxE?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python scoping (beginner - intermediate)](https://youtu.be/xb_zV3gaDxY?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [docker: deleting files makes your image bigger! (intermediate)](https://youtu.be/4kBfXrE0xpo?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [getting started with packer (intermediate)](https://youtu.be/VvjYePm2UyU?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
