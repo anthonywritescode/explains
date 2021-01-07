@@ -1,3 +1,5 @@
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/anthonywritescode/explains/master.svg)](https://results.pre-commit.ci/latest/github/anthonywritescode/explains/master)
+
 explains
 ========
 
