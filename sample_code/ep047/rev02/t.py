@@ -1,4 +1,5 @@
 from typing import Dict
+from typing import NamedTuple
 from typing import Optional
 
 
@@ -16,8 +17,6 @@ def log(s: str, *, filename: Optional[str] = None) -> None:
 x: int = 5
 
 
-from typing import NamedTuple
-
 class NT(NamedTuple):
     x: int
     y: int
@@ -27,6 +26,7 @@ class NT(NamedTuple):
 
 # old way
 def print_items(dct: Dict[str, str]) -> None: ...
+
 
 # def print_items(dct: dict[str, str]) -> None: ...
 

@@ -16,6 +16,7 @@ class C(Generic[T]):
 
     @overload
     def __getitem__(self, idx: int) -> T: ...
+
     @overload
     def __getitem__(self, idx: slice) -> C[T]: ...
 

@@ -6,7 +6,7 @@ def c_main(stdscr: 'curses._CursesWindow') -> int:
         stdscr.insstr(0, 0, 'hello world')
         stdscr.move(0, len('hello world') + 1)
         char = stdscr.get_wch()
-        break        
+        break
     return 0
 
 

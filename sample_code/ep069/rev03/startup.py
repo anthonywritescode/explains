@@ -6,5 +6,6 @@ readline.parse_and_bind('tab: complete')
 
 type(exit).__repr__ = lambda self: self()
 
+
 def pp(o):
     import pprint; pprint.pprint(o)

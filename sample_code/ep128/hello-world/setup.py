@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup (
+setup(
     name='hello-world',
     version='1',
     entry_points={

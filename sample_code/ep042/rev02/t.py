@@ -64,7 +64,9 @@ print(
 print(
     'hello {!r} '
     'I am at {}, {} '
-    'and my temperature is {:.1f}'.format(thing, point.x, point.y, temperature),
+    'and my temperature is {:.1f}'.format(
+        thing, point.x, point.y, temperature,
+    ),
 )
 
 print(

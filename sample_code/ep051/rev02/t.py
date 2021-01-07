@@ -2,12 +2,11 @@ from __future__ import unicode_literals
 
 import argparse
 import os.path
-import sys
 
 
 def validate_string(s):
     if not isinstance(s, str):
-        raise AssertError('expected a string, but got {!r}'.format(s))
+        raise AssertionError('expected a string, but got {!r}'.format(s))
     return s
 
 
