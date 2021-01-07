@@ -38,10 +38,6 @@ class C:
         print('in property y')
         return self.x + 5
 
-    @classmethod
-    def func(cls):
-        print(f'in class {cls}')
-
     @staticmethod
     def func():
         print('normal function')

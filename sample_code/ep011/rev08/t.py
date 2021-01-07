@@ -1,8 +1,8 @@
 
 # def str_find_char(s: str, c: str) -> int:
-    # for i in range(len(s)):
-    # if s[i] == c:
-    #     ...
+#     for i in range(len(s)):
+#     if s[i] == c:
+#         ...
 
 
 def str_find_char(s: str, c: str) -> int:

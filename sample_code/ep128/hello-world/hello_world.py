@@ -2,23 +2,26 @@ import argparse
 import importlib.metadata
 import sys
 
+
 def default_output(output: str) -> None:
     print(output)
 
+
 def main() -> int:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--outputer", default='default')
+    parser.add_argument('--outputer', default='default')
     args = parser.parse_args()
 
-    eps =  importlib.metadata.entry_points()['hello_world.output']
+    eps = importlib.metadata.entry_points()['hello_world.output']
     outputers = {
         entrypoint.name: entrypoint
         for entrypoint in eps
     }
+
     try:
         outputer = outputers[args.outputer].load()
     except KeyError:
-        outputer_s = ", ".join(sorted(outputers))
+        outputer_s = ', '.join(sorted(outputers))
         print(f'outputer {args.outputer} is not availabe!', file=sys.stderr)
         print(f'available outputers: {outputer_s}', file=sys.stderr)
         return 1
@@ -26,5 +29,6 @@ def main() -> int:
     outputer('hello world')
     return 0
 
-if __name__ == "__main__":
+
+if __name__ == '__main__':
     exit(main())

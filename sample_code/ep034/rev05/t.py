@@ -5,7 +5,7 @@ def parse_color(s: str) -> Tuple[int, int, int]:
     if len(s) == 7:
         return int(s[1:3], 16), int(s[3:5], 16), int(s[5:7], 16)
     elif len(s) == 4:
-        return int(s[1] * 2, 16), int(s[2] * 2, 16), int(s[3] * 2, 16) 
+        return int(s[1] * 2, 16), int(s[2] * 2, 16), int(s[3] * 2, 16)
     else:
         raise ValueError(f'unknown color format: {s}')
 

@@ -8,7 +8,7 @@ def c_main(stdscr: 'curses._CursesWindow') -> int:
         stdscr.addstr(name)
         char = stdscr.get_wch()
         raise AssertionError(char)
-        break        
+        break
     return 0
 
 

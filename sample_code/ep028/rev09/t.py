@@ -14,7 +14,7 @@ def c_main(stdscr: 'curses._CursesWindow') -> int:
         char = stdscr.get_wch()
         if isinstance(char, str) and char.isprintable():
             name += char
-        elif char == curses.KEY_BACKSPACE or char == '\x08':  # or char == '\x97':
+        elif char == curses.KEY_BACKSPACE or char == '\x08':  # char == '\x97'
             name = name[:-1]
         elif char == '\n':
             name_done = True

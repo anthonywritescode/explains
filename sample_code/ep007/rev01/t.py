@@ -14,7 +14,15 @@ def calls_exec() -> NoReturn:
     os.execvp('echo', ('echo', 'hi'))
 
 
-def loop_forever() -> NoReturn:
+def get_request():
+    ...
+
+
+def handle_response(arg):
+    ...
+
+
+def loops_forever() -> NoReturn:
     while True:
         request = get_request()
         handle_response(request)
