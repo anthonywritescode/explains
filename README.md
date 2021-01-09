@@ -209,3 +209,4 @@ the full [playlist] is on youtube
 1. [docker: deleting files makes your image bigger! (intermediate)](https://youtu.be/4kBfXrE0xpo?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [getting started with packer (intermediate)](https://youtu.be/VvjYePm2UyU?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [all about xargs ! (beginner - intermediate)](https://youtu.be/ED9AUfFrak8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [bash "strict mode": -euo pipefail (beginner - intermediate)](https://youtu.be/9fSkygQ-ZjI?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
