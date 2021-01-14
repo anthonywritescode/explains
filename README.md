@@ -213,3 +213,4 @@ the full [playlist] is on youtube
 1. [3 ways to clear / fix the terminal (beginner)](https://youtu.be/LSEnVCBnKN4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python is compiled? (+ disassembler) (intermediate)](https://youtu.be/FPJdre3mbD4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is a boolean trap? (programming antipattern) (beginner - intermediate)](https://youtu.be/CnRkXO_a5mI?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [python easter eggs: \_\_future\_\_ braces (beginner)](https://youtu.be/x7xVjGbObrw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
