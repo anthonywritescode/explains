@@ -107,7 +107,7 @@ the full [playlist] is on youtube
 1. [typing: what is Type[X]? (intermediate)](https://youtu.be/_7EXU9cjBkg?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python debugger crash course: pdb / breakpoint (beginner - intermediate)](https://youtu.be/0LPuG825eAk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [why pytest.mark.usefixtures? (intermediate)](https://youtu.be/BE2v1VCmGwg?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
-1. [git apply and manual stashing (intermediate) -](https://youtu.be/4LXTaikZfco?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [git apply and manual stashing (intermediate)](https://youtu.be/4LXTaikZfco?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [intro to python namedtuples! (beginner - intermediate)](https://youtu.be/iqXnBE4htUc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [namedtuple to json and other pitfalls (intermediate)](https://youtu.be/QOKqvuvA3ok?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [how namedtuple works (advanced)](https://youtu.be/sfDSQSj-uvQ?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
@@ -214,3 +214,4 @@ the full [playlist] is on youtube
 1. [python is compiled? (+ disassembler) (intermediate)](https://youtu.be/FPJdre3mbD4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is a boolean trap? (programming antipattern) (beginner - intermediate)](https://youtu.be/CnRkXO_a5mI?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python easter eggs: \_\_future\_\_ braces (beginner)](https://youtu.be/x7xVjGbObrw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [the `wc` command (beginner)](https://youtu.be/YmjeLv1RLSc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
