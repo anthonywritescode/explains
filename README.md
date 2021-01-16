@@ -215,3 +215,4 @@ the full [playlist] is on youtube
 1. [what is a boolean trap? (programming antipattern) (beginner - intermediate)](https://youtu.be/CnRkXO_a5mI?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python easter eggs: \_\_future\_\_ braces (beginner)](https://youtu.be/x7xVjGbObrw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [the `wc` command (beginner)](https://youtu.be/YmjeLv1RLSc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [debugging python segfaults with gdb (intermediate - advanced)](https://youtu.be/bXEXE6ywzSA?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
