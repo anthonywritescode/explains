@@ -219,3 +219,4 @@ the full [playlist] is on youtube
 1. [interview question: 4 / 7 swap (beginner - intermediate)](https://youtu.be/PSXlOSJ2lZk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [github actions vulnerability or "why bug bounties are a scam" (intermediate)](https://youtu.be/_fpXyS_i1xE?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python easter eggs: antigravity (beginner)](https://youtu.be/T7TvWTjp_fw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [python insertion-ordered dicts (beginner - intermediate)](https://youtu.be/thOgrFA7MzI?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
