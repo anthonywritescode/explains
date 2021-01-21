@@ -18,7 +18,7 @@ pip install -e .
 
 ### Python debugger (pdb)
 
-```console
+```
 list
 dir(hook)
 pp dir(hook)

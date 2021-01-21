@@ -32,7 +32,7 @@ breakpoint()
 
 ### Python debugger (pdb)
 
-```console
+```
 help
 continue
 q  # quit
