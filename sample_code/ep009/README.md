@@ -21,7 +21,7 @@ pip install future-breakpoint
 
 ### Python debugger (pdb)
 
-```python
+```
 p 'p means print'
 p 'n means next'
 p 'q means quit'

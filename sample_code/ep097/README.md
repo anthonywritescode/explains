@@ -30,9 +30,9 @@ __import('pdb').set_trace()
 breakpoint()
 ```
 
-### Pdb
+### Python debugger (pdb)
 
-```console
+```
 help
 continue
 q  # quit
