@@ -223,3 +223,4 @@ the full [playlist] is on youtube
 1. [python @decorator stacking (intermediate)](https://youtu.be/A10RHUCVw6A?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [typing: dealing with import cycles (beginner - intermediate)](https://youtu.be/B5cjckVzY4g?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python easter eggs: easiest hello world! (beginner)](https://youtu.be/ViNc-g60br8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [what is dynamic programming? (beginner - intermediate)](https://youtu.be/4tc5MUBjw-g?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
