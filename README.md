@@ -224,3 +224,4 @@ the full [playlist] is on youtube
 1. [typing: dealing with import cycles (beginner - intermediate)](https://youtu.be/B5cjckVzY4g?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python easter eggs: easiest hello world! (beginner)](https://youtu.be/ViNc-g60br8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is dynamic programming? (beginner - intermediate)](https://youtu.be/4tc5MUBjw-g?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [unix commands: fold (beginner)](https://youtu.be/BVuW-kiY_X8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
