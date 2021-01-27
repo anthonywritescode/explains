@@ -226,3 +226,4 @@ the full [playlist] is on youtube
 1. [what is dynamic programming? (beginner - intermediate)](https://youtu.be/4tc5MUBjw-g?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [unix commands: fold (beginner)](https://youtu.be/BVuW-kiY_X8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [listing only directories with `ls` (beginner)](https://youtu.be/rNANZNxEUAo?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [github tip: getting perma-links (beginner)](https://youtu.be/5IDpsBccqLk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
