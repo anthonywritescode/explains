@@ -229,3 +229,4 @@ the full [playlist] is on youtube
 1. [github tip: getting perma-links (beginner)](https://youtu.be/5IDpsBccqLk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [finding python source code and docs (beginner)](https://youtu.be/DUG77pRVsV8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [how I sped up python's tokenize module by 25% (intermediate)](https://youtu.be/fYbeK47C5b8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [python: why is -c faster than -m? (intermediate)](https://youtu.be/YuIZkHawihw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
