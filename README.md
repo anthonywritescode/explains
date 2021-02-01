@@ -231,3 +231,4 @@ the full [playlist] is on youtube
 1. [how I sped up python's tokenize module by 25% (intermediate)](https://youtu.be/fYbeK47C5b8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python: why is -c faster than -m? (intermediate)](https://youtu.be/YuIZkHawihw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python: {...} is faster than dict(...) (intermediate)](https://youtu.be/-v4DmRsL7nc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [showing actual file bytes with hexdump (beginner - intermediate)](https://youtu.be/FNyo1CSxBrg?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
