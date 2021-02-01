@@ -21,12 +21,13 @@ def main() -> int:
     try:
         outputer = outputers[args.outputer].load()
     except KeyError:
-        outputer_s = ', '.join(sorted(outputers))
-        print(f'outputer {args.outputer} is not availabe!', file=sys.stderr)
-        print(f'available outputers: {outputer_s}', file=sys.stderr)
+        print(f'outputer {args.outputer} is not available!', file=sys.stderr)
+        outputers_s = ', '.join(sorted(outputers))
+        print(f'available outputers: {outputers_s}', file=sys.stderr)
         return 1
 
     outputer('hello world')
+
     return 0
 
 
