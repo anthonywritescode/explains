@@ -233,3 +233,4 @@ the full [playlist] is on youtube
 1. [python: {...} is faster than dict(...) (intermediate)](https://youtu.be/-v4DmRsL7nc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [showing actual file bytes with hexdump (beginner - intermediate)](https://youtu.be/FNyo1CSxBrg?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python: how do any / all work? (beginner)](https://youtu.be/NO8frFR7ZxU?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [bash: /bin/[ is an executable ? (intermediate)](https://youtu.be/8kFmJGXa1qk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
