@@ -104,7 +104,7 @@ the full [playlist] is on youtube
 1. [top 10 new things in python3.9 (beginner - intermediate)](https://youtu.be/Dtw0QJhepV0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [testing functools.lru\_cache with pytest! (beginner - intermediate)](https://youtu.be/ujRo8n0LsU4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [git: commit message pro tip (beginner - intermediate)](https://youtu.be/CWrBZeC2Qqs?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
-1. [typing: what is Type\[X]? (intermediate)](https://youtu.be/_7EXU9cjBkg?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [typing: what is Type\[X\]? (intermediate)](https://youtu.be/_7EXU9cjBkg?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python debugger crash course: pdb / breakpoint (beginner - intermediate)](https://youtu.be/0LPuG825eAk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [why pytest.mark.usefixtures? (intermediate)](https://youtu.be/BE2v1VCmGwg?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [git apply and manual stashing (intermediate)](https://youtu.be/4LXTaikZfco?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
