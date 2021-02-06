@@ -235,3 +235,4 @@ the full [playlist] is on youtube
 1. [python: how do any / all work? (beginner)](https://youtu.be/NO8frFR7ZxU?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [bash: /bin/\[ is an executable ? (intermediate)](https://youtu.be/8kFmJGXa1qk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [the `install` command (beginner - intermediate)](https://youtu.be/Xk5XRy4OxOM?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [3 ways to fix an accidental git commit to main (beginner - intermediate)](https://youtu.be/4C2lSosT7hc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
