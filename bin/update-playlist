@@ -9,7 +9,7 @@ from typing import Dict
 
 WS_RE = re.compile(r'\s+')
 TRAILER_RE = re.compile(r' anthony explains #\d+$')
-ESCAPE = {ord('\\'): '\\\\', ord('_'): r'\_', ord('['): r'\[', ord(']'): r'\]'}
+ESCAPE = {ord('\\'): r'\\', ord('_'): r'\_', ord('['): r'\[', ord(']'): r'\]'}
 
 
 def _fixup_title(s: str) -> str:
