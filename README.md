@@ -239,3 +239,4 @@ the full [playlist] is on youtube
 1. [don't use time.time() for performance measurement (beginner - intermediate)](https://youtu.be/hb-12mgQrzM?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [how to search a repo using `git grep` (beginner)](https://youtu.be/2MCtRv1ZIFQ?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [the 2 modes of python's str.split (beginner)](https://youtu.be/6pIPMHP2Lwg?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [python: what are *splat **args? (intermediate)](https://youtu.be/VhDMj5ffGSc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
