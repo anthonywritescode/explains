@@ -1,0 +1,3 @@
+def func(x: int, y: int = None) -> None:
+    reveal_type(y)
+    ...
