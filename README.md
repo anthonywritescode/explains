@@ -243,3 +243,4 @@ the full [playlist] is on youtube
 1. [the 2 modes of python's str.split (beginner)](https://youtu.be/6pIPMHP2Lwg?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python: what are *splat **args? (intermediate)](https://youtu.be/VhDMj5ffGSc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [why doesn't flake8 mark this import as unused? (beginner - intermediate)](https://youtu.be/gRq3Sb0_dJM?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [pathlib is slow? how I improved black's caching by 40x (intermediate)](https://youtu.be/tFrh9hKMS6Y?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
