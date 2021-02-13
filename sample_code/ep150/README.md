@@ -12,7 +12,7 @@ cd pre-commit
 
 ## Interactive examples
 
-### Docker
+### Bash
 
 ```bash
 dpkg -l | grep linux
