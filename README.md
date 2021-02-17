@@ -248,3 +248,4 @@ the full [playlist] is on youtube
 1. [enable tab completion in pdb! (beginner)](https://youtu.be/S-Gj0q0O9_E?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [sed command basics (beginner - intermediate)](https://youtu.be/fdRL8xME7bQ?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what pythons should I support? (beginner - intermediate)](https://youtu.be/w8W6IaaXCBQ?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [python: what is assert? (beginner)](https://youtu.be/v1MtwCPTmBI?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
