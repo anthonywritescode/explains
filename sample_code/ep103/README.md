@@ -22,9 +22,9 @@ python2 -m pip install astpretty
 head -1 $(which pip)
 ```
 
-### CMD
+### Windows CMD
 
-```cmd
+```batch
 pip install pip --upgrade
 python -m pip install pip --upgrade
 python -m pip install pip==9.0.3
