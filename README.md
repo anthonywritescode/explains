@@ -252,3 +252,4 @@ the full [playlist] is on youtube
 1. [python: shlex module (beginner - intermediate)](https://youtu.be/fdTHXq6AQ7E?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python: what is hashability? (intermediate)](https://youtu.be/fQtNXBJp8Q4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python: why object() in this code? (intermediate)](https://youtu.be/1n6kWtLrOV4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [intro to terraform (intermediate)](https://youtu.be/xskzEkoisNE?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
