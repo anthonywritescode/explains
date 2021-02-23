@@ -254,3 +254,4 @@ the full [playlist] is on youtube
 1. [python: why object() in this code? (intermediate)](https://youtu.be/1n6kWtLrOV4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [intro to terraform (intermediate)](https://youtu.be/xskzEkoisNE?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [git rebase (and git rebase -i) (intermediate)](https://youtu.be/hv8dhOEzQcM?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [testing output with pytest (beginner - intermediate)](https://youtu.be/dN-pVt7i4Us?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
