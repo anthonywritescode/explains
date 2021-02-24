@@ -16,4 +16,6 @@ int('asdfasdf')
 virtualenv venv
 . venv/bin/activate
 pip install pytest
+
+pytest t.py
 ```
