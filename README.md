@@ -257,3 +257,4 @@ the full [playlist] is on youtube
 1. [testing output with pytest (beginner - intermediate)](https://youtu.be/dN-pVt7i4Us?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python: exception catching and isinstance gotcha (beginner - intermediate)](https://youtu.be/dS8rdjZrCaA?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [one-off 3rd party mypy types (intermediate)](https://youtu.be/mKmmZHMwXAY?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [PS1, coloring, and fixing weird wrapping (beginner - intermediate)](https://youtu.be/ngLwml9XI-I?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
