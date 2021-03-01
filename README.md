@@ -258,3 +258,4 @@ the full [playlist] is on youtube
 1. [python: exception catching and isinstance gotcha (beginner - intermediate)](https://youtu.be/dS8rdjZrCaA?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [one-off 3rd party mypy types (intermediate)](https://youtu.be/mKmmZHMwXAY?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [PS1, coloring, and fixing weird wrapping (beginner - intermediate)](https://youtu.be/ngLwml9XI-I?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [python match statement (PEP 634) (intermediate - advanced)](https://youtu.be/Bk-Gn7J6sz4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
