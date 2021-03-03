@@ -260,3 +260,4 @@ the full [playlist] is on youtube
 1. [PS1, coloring, and fixing weird wrapping (beginner - intermediate)](https://youtu.be/ngLwml9XI-I?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python match statement (PEP 634) (intermediate - advanced)](https://youtu.be/Bk-Gn7J6sz4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [NotImplemented vs NotImplementedError (beginner - intermediate)](https://youtu.be/GSBqmYUnBdk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [packaging python typed code (intermediate)](https://youtu.be/n4GJ8rp6DpE?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
