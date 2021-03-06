@@ -263,3 +263,4 @@ the full [playlist] is on youtube
 1. [packaging python typed code (intermediate)](https://youtu.be/n4GJ8rp6DpE?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [interview questions: anagrams (beginner - intermediate)](https://youtu.be/aEPW3x_FVes?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python: functools.partial (beginner - intermediate)](https://youtu.be/kZlOy1BY6lY?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [speed up git in big repos with this trick (beginner)](https://youtu.be/ppILYNc10DQ?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
