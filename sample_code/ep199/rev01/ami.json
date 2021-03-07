@@ -1,0 +1,39 @@
+{
+  "variables" : {
+    "aws_access_key": "{{eny `AWS_ACCESS_KEY_ID`}}",
+    "aws_secret_key": "{{env `AWS_SECRET_ACCESS_KEY`}}",
+    "aws_region": "us-east-1"
+  },
+  "builders": [
+    {
+      "type": "amazon-ebs",
+      "ami_name": "my ami",
+      "access_key": "{{user `aws_access_key`}}",
+      "secret_key": "{{user `aws_secret_key`}}",
+      "region": "{{user `aws_region`}}",
+      "source_ami_filter": {
+        "filters": {
+          "virtualization-type": "hvm",
+          "name": "ubuntu-minimal/*/ubuntu-focal-20.04-amd64-minimal-*",
+          "root-device-type": "ebs"
+        },
+        "owners": ["099720109477"],
+        "most recent": true
+      },
+      "instance_type": "t2.micro",
+      "ssh_username": "ubuntu"
+    }
+  ],
+  "provisioners": [
+    {"type": "shell", "inline": ["sudo du -xhs / 2> /dev/null"]},
+    {
+        "type": "shell",
+        "inline" : [
+            "sudo apt-get update",
+            "sudo apt-get install -y --no-install-recommends cowsay"
+        ]
+    },
+    {"type": "shell", "inline": ["cowsay 'it works!'"]},
+    {"type": "shell", "inline": ["sudo du -xhs / 2> /dev/null"]}
+  ]
+}
