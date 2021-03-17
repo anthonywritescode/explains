@@ -268,3 +268,4 @@ the full [playlist] is on youtube
 1. [what is podman vs docker (beginner - intermediate)](https://youtu.be/lkg5QJsoCCQ?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [a file even root can't delete! (chattr) (intermediate)](https://youtu.be/eXUCrIhTsM0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python: yield from (beginner - intermediate)](https://youtu.be/36nDT1ryA5o?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [pytest: xfail vs xpass and all test statuses (beginner - intermediate)](https://youtu.be/uzodcMcHbJU?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
