@@ -271,3 +271,4 @@ the full [playlist] is on youtube
 1. [pytest: xfail vs xpass and all test statuses (beginner - intermediate)](https://youtu.be/uzodcMcHbJU?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python easter eggs: \_\_peg\_parser\_\_ (beginner)](https://youtu.be/p985PaTjqlc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is the XDG base directory specification? (intermediate)](https://youtu.be/wT85Ynk-0MY?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [move a virtualenv! (intermediate)](https://youtu.be/iZlgLrWed1I?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
