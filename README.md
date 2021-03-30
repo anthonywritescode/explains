@@ -276,3 +276,4 @@ the full [playlist] is on youtube
 1. [floats are broken? (+3 solutions in python!) (beginner - intermediate)](https://youtu.be/9-Cpi3hGjrY?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [how I find standard python type signatures (beginner - intermediate)](https://youtu.be/FP3VV6do6Cc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python curses: mouse integration (intermediate)](https://youtu.be/OQ20a6CIamM?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [the `rlwrap` command (beginner - intermediate)](https://youtu.be/WizvitXOsLk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
