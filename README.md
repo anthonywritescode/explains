@@ -277,3 +277,4 @@ the full [playlist] is on youtube
 1. [how I find standard python type signatures (beginner - intermediate)](https://youtu.be/FP3VV6do6Cc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python curses: mouse integration (intermediate)](https://youtu.be/OQ20a6CIamM?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [the `rlwrap` command (beginner - intermediate)](https://youtu.be/WizvitXOsLk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [can cpython be 76% faster by changing hash()? (no) (intermediate)](https://youtu.be/_8FHjmv8ix0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
