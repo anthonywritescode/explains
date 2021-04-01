@@ -278,3 +278,4 @@ the full [playlist] is on youtube
 1. [python curses: mouse integration (intermediate)](https://youtu.be/OQ20a6CIamM?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [the `rlwrap` command (beginner - intermediate)](https://youtu.be/WizvitXOsLk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [can cpython be 76% faster by changing hash()? (no) (intermediate)](https://youtu.be/_8FHjmv8ix0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [what is a .pth file? (intermediate)](https://youtu.be/mzxQrgvuRFg?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
