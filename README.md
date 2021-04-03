@@ -280,3 +280,4 @@ the full [playlist] is on youtube
 1. [can cpython be 76% faster by changing hash()? (no) (intermediate)](https://youtu.be/_8FHjmv8ix0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is a .pth file? (intermediate)](https://youtu.be/mzxQrgvuRFg?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [nesting context managers with classes (intermediate)](https://youtu.be/kJIyBpR9bQM?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [a FREE stateful cron using aws (intermediate)](https://youtu.be/Lauwn5wNZzo?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
