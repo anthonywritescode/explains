@@ -282,3 +282,4 @@ the full [playlist] is on youtube
 1. [nesting context managers with classes (intermediate)](https://youtu.be/kJIyBpR9bQM?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [a FREE stateful cron using aws (intermediate)](https://youtu.be/Lauwn5wNZzo?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what are git submodules? (intermediate)](https://youtu.be/RFcc-BQjCsE?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [programmable nintendo switch controller (intermediate)](https://youtu.be/chvgQUX7QaI?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
