@@ -4,7 +4,7 @@ Today I go over the brand-new and controversial `match` statement in python!
 
 ## Interactive examples
 
-### python
+### Python
 
 ```python
 match 1:
@@ -12,7 +12,7 @@ match 1:
         print(1)
 ```
 
-## Bash
+### Bash
 
 Session 1:
 

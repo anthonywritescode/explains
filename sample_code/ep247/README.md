@@ -36,7 +36,7 @@ except (AssertionError, (TypeError, ValueError)):
 issubclass(int, C)
 ```
 
-## Bash
+### Bash
 
 ```bash
 python t.py

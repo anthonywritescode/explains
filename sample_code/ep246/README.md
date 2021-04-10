@@ -4,9 +4,9 @@ Today I talk about how to test output using pytest -- using the `capsys` and `ca
 
 ## Interactive examples
 
-### Python
+### Bash
 
-```python
+```bash
 virtualenv venv
 . venv/bin/activate
 pip install pytest
