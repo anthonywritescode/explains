@@ -4,7 +4,7 @@ Today I show how to fix "Cannot find implementation or library stub for module n
 
 ## Interactive examples
 
-## Bash
+### Bash
 
 Session 1:
 

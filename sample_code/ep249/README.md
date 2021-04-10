@@ -4,7 +4,7 @@ Today I talk a little bit about bash prompts and PS1 as well as how to color it 
 
 ## Interactive examples
 
-## Bash
+### Bash
 
 ```bash
 PS1='hello hello$ '

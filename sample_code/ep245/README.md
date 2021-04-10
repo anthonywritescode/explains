@@ -4,7 +4,7 @@ Today I talk about "what is rebasing" and the various options to interactive reb
 
 ## Interactive examples
 
-## Bash
+### Bash
 
 ```bash
 git clone git@github.com:pre-commit/pre-commit-hooks
