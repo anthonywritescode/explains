@@ -287,3 +287,4 @@ the full [playlist] is on youtube
 1. [python typing: NotImplemented is a bool? (intermediate)](https://youtu.be/5XBs_fM3Nac?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [the `find` command (beginner - intermediate)](https://youtu.be/y6NQTZgPNPw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [use the clipboard from the terminal (beginner)](https://youtu.be/-ebWr_C29_c?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [pgrep / pkill commands (beginner - intermediate)](https://youtu.be/KdSKTEUPPEk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
