@@ -4,7 +4,7 @@ Today I talk about floating point math and how it can appear "broken" -- I also 
 
 ## Interactive examples
 
-### Bash
+### Python
 
 ```python
 11111111111111111111111111111111111111111111111.
