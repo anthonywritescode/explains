@@ -288,3 +288,4 @@ the full [playlist] is on youtube
 1. [the `find` command (beginner - intermediate)](https://youtu.be/y6NQTZgPNPw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [use the clipboard from the terminal (beginner)](https://youtu.be/-ebWr_C29_c?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [pgrep / pkill commands (beginner - intermediate)](https://youtu.be/KdSKTEUPPEk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [SUPER FAST cpython with mypyc (intermediate)](https://youtu.be/0Cjg3qvHBEY?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
