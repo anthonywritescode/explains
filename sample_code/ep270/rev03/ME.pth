@@ -1,0 +1,2 @@
+import os; exec("if True:\n    print('STARTUP!')")
+/tmp/explains/y
