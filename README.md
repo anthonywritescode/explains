@@ -289,3 +289,4 @@ the full [playlist] is on youtube
 1. [use the clipboard from the terminal (beginner)](https://youtu.be/-ebWr_C29_c?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [pgrep / pkill commands (beginner - intermediate)](https://youtu.be/KdSKTEUPPEk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [SUPER FAST cpython with mypyc (intermediate)](https://youtu.be/0Cjg3qvHBEY?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [updating a forked repository (beginner - intermediate)](https://youtu.be/MSYqb9EWjto?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
