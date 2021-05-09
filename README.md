@@ -291,3 +291,4 @@ the full [playlist] is on youtube
 1. [SUPER FAST cpython with mypyc (intermediate)](https://youtu.be/0Cjg3qvHBEY?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [updating a forked repository (beginner - intermediate)](https://youtu.be/MSYqb9EWjto?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [docker takes so much disk! (beginner - intermediate)](https://youtu.be/TSjZrubRfXo?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [python: traceback basics + raise from (beginner - intermediate)](https://youtu.be/wc6W-RaMJ7k?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
