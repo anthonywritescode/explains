@@ -294,3 +294,4 @@ the full [playlist] is on youtube
 1. [python: traceback basics + raise from (beginner - intermediate)](https://youtu.be/wc6W-RaMJ7k?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [git: check in executable file (+ on windows) (beginner - intermediate)](https://youtu.be/Ud6t-mIyhsw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [line buffering vs. block buffering (intermediate)](https://youtu.be/gdU1QiKKSbE?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [the `comm` command! (intermediate)](https://youtu.be/Ic-8swynoHU?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
