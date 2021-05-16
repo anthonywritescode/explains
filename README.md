@@ -295,3 +295,4 @@ the full [playlist] is on youtube
 1. [git: check in executable file (+ on windows) (beginner - intermediate)](https://youtu.be/Ud6t-mIyhsw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [line buffering vs. block buffering (intermediate)](https://youtu.be/gdU1QiKKSbE?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [the `comm` command! (intermediate)](https://youtu.be/Ic-8swynoHU?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [man pages for git subcommands (beginner - intermediate)](https://youtu.be/1CYAFPTn_oo?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
