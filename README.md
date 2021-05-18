@@ -296,3 +296,4 @@ the full [playlist] is on youtube
 1. [line buffering vs. block buffering (intermediate)](https://youtu.be/gdU1QiKKSbE?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [the `comm` command! (intermediate)](https://youtu.be/Ic-8swynoHU?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [man pages for git subcommands (beginner - intermediate)](https://youtu.be/1CYAFPTn_oo?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [flake8: avoiding F401 in \_\_init\_\_.py (beginner - intermediate)](https://youtu.be/OAqvLDRZqFc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
