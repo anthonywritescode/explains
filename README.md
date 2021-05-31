@@ -300,3 +300,4 @@ the full [playlist] is on youtube
 1. [top 10 new things in python 3.10 (beginner - intermediate)](https://youtu.be/jUwPmbHnlt0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is a deadletter queue? (intermediate)](https://youtu.be/XNXbjWNsKAE?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [atomically replace / delete directories (intermediate - advanced)](https://youtu.be/qEcYqI5NDko?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [☃.com and punycode / idna (beginner - intermediate)](https://youtu.be/MMkOWqJkxeo?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
