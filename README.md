@@ -303,3 +303,4 @@ the full [playlist] is on youtube
 1. [☃.com and punycode / idna (beginner - intermediate)](https://youtu.be/MMkOWqJkxeo?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [how to get pip for deadsnakes / docker pythons (intermediate)](https://youtu.be/2Hg5-Hrsa6w?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [@staticmethod / @classmethod (beginner + advanced)](https://youtu.be/yhkpRz7TC7o?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [date.today() is twice as slow as datetime.now().date()??? (intermediate)](https://youtu.be/PBg6EorsX7s?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
