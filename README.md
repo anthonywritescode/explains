@@ -306,3 +306,4 @@ the full [playlist] is on youtube
 1. [date.today() is twice as slow as datetime.now().date()??? (intermediate)](https://youtu.be/PBg6EorsX7s?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [simple python dockerfile w/ flask (intermediate)](https://youtu.be/8V4UowjLIMc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python typing: Generator\[T, S, R\] (intermediate)](https://youtu.be/DTegfCNAXoM?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [python: explicit relative imports (intermediate)](https://youtu.be/uwtupH7LJco?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
