@@ -308,3 +308,4 @@ the full [playlist] is on youtube
 1. [python typing: Generator\[T, S, R\] (intermediate)](https://youtu.be/DTegfCNAXoM?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python: explicit relative imports (intermediate)](https://youtu.be/uwtupH7LJco?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [debugging mypy types (beginner - intermediate)](https://youtu.be/Pc6H3Pofhp8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [what are python doctests? (beginner - intermediate)](https://youtu.be/37TJeMLyi5I?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
