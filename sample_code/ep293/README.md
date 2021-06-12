@@ -28,7 +28,6 @@ which pip3.10
 rm -rf /venv/
 which pip3.10
 ls /usr/local/bin/
-
 exit
 
 docker build -f Dockerfile.ensurepip -t base-ensurepip .

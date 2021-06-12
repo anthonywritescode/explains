@@ -7,6 +7,6 @@ RUN : \
     && add-apt-repository ppa:deadsnakes \
     && DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends \
         python3.10 \
-        python3-distutils \
+        python3.10-distutils \
         python3-pip \
     && rm -rf /var/lib/apt/lists/*
