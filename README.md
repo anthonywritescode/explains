@@ -310,3 +310,4 @@ the full [playlist] is on youtube
 1. [debugging mypy types (beginner - intermediate)](https://youtu.be/Pc6H3Pofhp8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what are python doctests? (beginner - intermediate)](https://youtu.be/37TJeMLyi5I?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [terminal keyboard shortcut for unicode! (beginner)](https://youtu.be/36G70-MMhGI?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [bash: strings with `!` / !... event not found (beginner - intermediate) anthony explains](https://youtu.be/VkRjT3UBiLk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
