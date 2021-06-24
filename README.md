@@ -314,3 +314,4 @@ the full [playlist] is on youtube
 1. [default zoom key shortcut (beginner)](https://youtu.be/rn_iru8zKqs?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [smaller / faster builds with dockerignore (beginner - intermediate)](https://youtu.be/dEZ5WVWLris?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python: why reload() is a bad idea (beginner - intermediate)](https://youtu.be/oOs2JQu8KEw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [what is the py launcher? (intermediate)](https://youtu.be/OGcVB5Lnxuc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
