@@ -316,3 +316,4 @@ the full [playlist] is on youtube
 1. [python: why reload() is a bad idea (beginner - intermediate)](https://youtu.be/oOs2JQu8KEw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is the py launcher? (intermediate)](https://youtu.be/OGcVB5Lnxuc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [the `uniq` command (+ some `sort`) (beginner - intermediate)](https://youtu.be/FMdWB3m3lQ0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [gradual typing python (and my approach) (beginner - intermediate)](https://youtu.be/Rk-Y71P_9KE?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
