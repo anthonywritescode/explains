@@ -320,3 +320,4 @@ the full [playlist] is on youtube
 1. [importing non-module python files (intermediate)](https://youtu.be/B5bToFdBxdw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [the `cut` command (beginner - intermediate)](https://youtu.be/l9T85dA6HDY?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [bash: special redirection (intermediate)](https://youtu.be/3f8xjDr789Q?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [python typing: TYPE\_CHECKING (intermediate)](https://youtu.be/BPE4p8HNLFM?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
