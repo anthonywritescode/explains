@@ -2,8 +2,8 @@ name: update
 on:
   workflow_dispatch:
   schedule:
-    - cron: '5 20 * * *'
-    - cron: '5 21 * * *'
+    - cron: '2 20 * * *'
+    - cron: '2 21 * * *'
 jobs:
   update:
     name: update
