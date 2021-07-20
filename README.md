@@ -322,3 +322,5 @@ the full [playlist] is on youtube
 1. [bash: special redirection (intermediate)](https://youtu.be/3f8xjDr789Q?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python typing: TYPE\_CHECKING (intermediate)](https://youtu.be/BPE4p8HNLFM?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [`else` is good, actually (beginner - intermediate)](https://youtu.be/rClGwTEOK7M?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [Fussy Fox + flake8 vulnerability (intermediate)](https://youtu.be/J7NMyb-LNX4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [setting up required github PR checks (beginner - intermediate)](https://youtu.be/LGY1jPUso5I?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
