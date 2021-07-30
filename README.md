@@ -325,3 +325,4 @@ the full [playlist] is on youtube
 1. [Fussy Fox + flake8 vulnerability (intermediate)](https://youtu.be/J7NMyb-LNX4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [setting up required github PR checks (beginner - intermediate)](https://youtu.be/LGY1jPUso5I?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python has an optimizer? (intermediate)](https://youtu.be/i8uNgEchr20?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [pytest: testing env variables (intermediate)](https://youtu.be/N15X_pQHckQ?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
