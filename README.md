@@ -327,3 +327,4 @@ the full [playlist] is on youtube
 1. [python has an optimizer? (intermediate)](https://youtu.be/i8uNgEchr20?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [pytest: testing env variables (intermediate)](https://youtu.be/N15X_pQHckQ?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python easter eggs: this (beginner)](https://youtu.be/mRYWLKcMfE4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [replay - parsing docker information - 2021-07-26](https://youtu.be/SdN2uwptknY?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
