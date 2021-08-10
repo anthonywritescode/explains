@@ -21,9 +21,10 @@ def ctx2():
 
 class C:
     def __enter__(self):
-        self.stack = contextlib.ExitStack()
-        self.stack.enter_context(ctx())
-        self.stack.enter_context(ctx2())
+        with contextlib.ExitStack() as stack:
+            stack.enter_context(ctx())
+            stack.enter_context(ctx2())
+            self.stack = stack.pop_all()
 
     def __exit__(self, tp, inst, tb):
         return self.stack.__exit__(tp, inst, tb)
