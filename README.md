@@ -333,3 +333,4 @@ the full [playlist] is on youtube
 1. [what is manylinux? (intermediate - advanced)](https://youtu.be/80j-MRtHMek?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [pip install from git (beginner - intermediate)](https://youtu.be/AQrskWh-F5E?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python tempfile module (beginner - intermediate)](https://youtu.be/-pmgCmWiOXo?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [virtualenv: --system-site-packages (intermediate)](https://youtu.be/R6ObMPdixj0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
