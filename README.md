@@ -336,3 +336,4 @@ the full [playlist] is on youtube
 1. [virtualenv: --system-site-packages (intermediate)](https://youtu.be/R6ObMPdixj0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python: what is repr? (beginner - intermediate)](https://youtu.be/ei1q7m3zLfU?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [making an omni-executable (intermediate)](https://youtu.be/r41t-t27V9c?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [assign vs. shallow vs. deep copy (beginner - intermediate)](https://youtu.be/5Ufr51uPHEs?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
