@@ -24,5 +24,5 @@ all-repos-grep . -- 'requirements-*minimal.txt'
 all-repos-grep . -- 'requirements-*minimal.txt' | cut -d: -f3
 all-repos-grep . -- 'requirements-*minimal.txt' | cut -d: -f3 | sort | uniq
 all-repos-grep . -- 'requirements-*minimal.txt' | cut -d: -f3 | sort -u
-all-repos-grep . -- 'requirements-*minimal.txt' | cut -d: -f3 | sort -u | cut -d'>' -f1 | sort-u
+all-repos-grep . -- 'requirements-*minimal.txt' | cut -d: -f3 | sort -u | cut -d'>' -f1 | sort -u
 ```

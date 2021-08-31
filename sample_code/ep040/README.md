@@ -37,5 +37,6 @@ python -m venv --help
 
 ```batch
 python -m venv venv2
-venv\Scripts\activate
+venv2\Scripts\activate
+echo %PATH%
 ```
