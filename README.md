@@ -337,3 +337,5 @@ the full [playlist] is on youtube
 1. [python: what is repr? (beginner - intermediate)](https://youtu.be/ei1q7m3zLfU?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [making an omni-executable (intermediate)](https://youtu.be/r41t-t27V9c?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [assign vs. shallow vs. deep copy (beginner - intermediate)](https://youtu.be/5Ufr51uPHEs?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [what is `source` and why? (beginner - intermediate)](https://youtu.be/YE6ZDpRcdQU?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [mypy! this key exists I promise! (beginner - intermediate)](https://youtu.be/HE0At4RrZIE?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
