@@ -340,3 +340,4 @@ the full [playlist] is on youtube
 1. [what is `source` and why? (beginner - intermediate)](https://youtu.be/YE6ZDpRcdQU?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [mypy! this key exists I promise! (beginner - intermediate)](https://youtu.be/HE0At4RrZIE?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python: raise SystemExit (beginner - intermediate)](https://youtu.be/ZbeSPc5wL0g?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [python easter eggs: barry\_as\_FLUFL (beginner - intermediate)](https://youtu.be/0vRwC-F7FF0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
