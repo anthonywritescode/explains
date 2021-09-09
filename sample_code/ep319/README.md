@@ -7,17 +7,14 @@ Today I go over the difference between `main` and `origin/main` as well as the m
 Simulate clone of git repository back in time:
 
 ```bash
-# git clone --bare git@github.com:asottile/astpretty
-git clone --bare https://github.com/asottile/astpretty
+git clone git@github.com:asottile/astpretty tmp
+# git clone https://github.com/asottile/astpretty tmp
 
-git clone astpretty.git/ astpretty
-cd astpretty
+git -C tmp reset --hard 8455ab7f
+git clone tmp astpretty
 
-git reset --hard 8455ab7f
-git push --force origin master
-
-# git remote set-url origin git@github.com:asottile/astpretty
-git remote set-url origin https://github.com/asottile/astpretty
+git -C astpretty remote set-url origin git@github.com:asottile/astpretty
+# git -C astpretty remote set-url origin https://github.com:asottile/astpretty
 ```
 
 ## Interactive examples
