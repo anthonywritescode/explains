@@ -341,3 +341,4 @@ the full [playlist] is on youtube
 1. [mypy! this key exists I promise! (beginner - intermediate)](https://youtu.be/HE0At4RrZIE?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python: raise SystemExit (beginner - intermediate)](https://youtu.be/ZbeSPc5wL0g?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python easter eggs: barry\_as\_FLUFL (beginner - intermediate)](https://youtu.be/0vRwC-F7FF0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [don't name things "...\_new" (beginner)](https://youtu.be/d-ZkEg_fa8Q?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
