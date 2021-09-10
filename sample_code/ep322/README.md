@@ -30,6 +30,7 @@ ldd _onigurumacffi.abi3.so
 ```
 
 Session 2:
+
 ```bash
 git clone git@github.com/asottile/onigurumacffi
 cd onigurumacffi/
