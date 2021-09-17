@@ -344,3 +344,4 @@ the full [playlist] is on youtube
 1. [don't name things "...\_new" (beginner)](https://youtu.be/d-ZkEg_fa8Q?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is "idempotent" in programming (beginner)](https://youtu.be/o9THkT5ZPi4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [interview tips: what language should I use? (beginner)](https://youtu.be/BzhNtQMGu9E?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [porting code to python **ZERO** (intermediate - advanced)](https://youtu.be/6vdg91-hPGY?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
