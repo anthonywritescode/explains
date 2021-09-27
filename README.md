@@ -347,3 +347,4 @@ the full [playlist] is on youtube
 1. [porting code to python **ZERO** (intermediate - advanced)](https://youtu.be/6vdg91-hPGY?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [interview tips: "your story" (beginner)](https://youtu.be/YBYzpQOA9lg?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [a python extension in go (advanced)](https://youtu.be/kCRU_ZTcxac?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [debugging a failed docker build (intermediate)](https://youtu.be/hd1AKYGiWNk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
