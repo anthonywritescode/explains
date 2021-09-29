@@ -348,3 +348,4 @@ the full [playlist] is on youtube
 1. [interview tips: "your story" (beginner)](https://youtu.be/YBYzpQOA9lg?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [a python extension in go (advanced)](https://youtu.be/kCRU_ZTcxac?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [debugging a failed docker build (intermediate)](https://youtu.be/hd1AKYGiWNk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [the most important skill I've learned for software engineering (beginner)](https://youtu.be/ritp4gAqNMI?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
