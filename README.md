@@ -328,7 +328,7 @@ the full [playlist] is on youtube
 1. [pytest: testing env variables (intermediate)](https://youtu.be/N15X_pQHckQ?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python easter eggs: this (beginner)](https://youtu.be/mRYWLKcMfE4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [git: main vs. origin/main (beginner - intermediate)](https://youtu.be/f-92I_gxgjA?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
-1. [python warnings (beginner - intermediate) anthonyexplains #320](https://youtu.be/tZSEZ2WG5w8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [python warnings (beginner - intermediate)](https://youtu.be/tZSEZ2WG5w8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [docker beside docker (intermediate - advanced)](https://youtu.be/pDysRzgLpgM?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is manylinux? (intermediate - advanced)](https://youtu.be/80j-MRtHMek?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [pip install from git (beginner - intermediate)](https://youtu.be/AQrskWh-F5E?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
