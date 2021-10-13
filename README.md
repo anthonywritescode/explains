@@ -353,3 +353,4 @@ the full [playlist] is on youtube
 1. [--argument prefix matching (beginner - intermediate)](https://youtu.be/jrs0l3HJ-Ow?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [why does id(float(1)) == id(float(2)) ??? (intermediate)](https://youtu.be/jjm10-Ug1aE?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python: what is `\_\_main\_\_` / `\_\_main\_\_.py` ? (beginner - intermediate)](https://youtu.be/FRxDmVVm0d0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [range(len(...)) is almost always wrong in python (beginner)](https://youtu.be/SwjBJhJiHvQ?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
