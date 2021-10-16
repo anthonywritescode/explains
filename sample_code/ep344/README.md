@@ -1,4 +1,4 @@
-# [python: what is `\_\_main\_\_` / `\_\_main\_\_.py` ? (beginner - intermediate)](https://youtu.be/FRxDmVVm0d0)
+# [python: what is `__main__` / `__main__.py` ? (beginner - intermediate)](https://youtu.be/FRxDmVVm0d0)
 
 Today I show what `__main__` means for python (the two places you'll run into it) as well as how to make modules and packages runnable with `__main__.py`!
 
