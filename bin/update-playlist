@@ -18,7 +18,12 @@ def _fixup_title(s: str) -> str:
     # special case the first video
     if s.endswith(' --'):
         s = s[:-1 * len(' --')]
-    return s.strip().translate(ESCAPE)
+
+    return ''.join(
+        # leave text alone inside `backticks`
+        part.translate(ESCAPE) if i % 2 == 0 else f'`{part}`'
+        for i, part in enumerate(s.strip().split('`'))
+    )
 
 
 def _video_link(video: Dict[str, Any], playlist_id: str) -> str:
