@@ -9,3 +9,12 @@ repos:
     rev: 4.0.1
     hooks:
     -   id: flake8
+-   repo: local
+    hooks:
+    -   id: tests
+        name: tests
+        entry: pytest tests
+        additional_dependencies: [pytest]
+        pass_filenames: false
+        always_run: true
+        language: python
