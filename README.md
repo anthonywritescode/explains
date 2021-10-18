@@ -355,3 +355,4 @@ the full [playlist] is on youtube
 1. [python: what is `__main__` / `__main__.py` ? (beginner - intermediate)](https://youtu.be/FRxDmVVm0d0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [range(len(...)) is almost always wrong in python (beginner)](https://youtu.be/SwjBJhJiHvQ?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is umask? (intermediate)](https://youtu.be/ZfDbUxH99n0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [opinion: don't bother typing tests (intermediate)](https://youtu.be/lGCU0j-otls?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
