@@ -356,3 +356,4 @@ the full [playlist] is on youtube
 1. [range(len(...)) is almost always wrong in python (beginner)](https://youtu.be/SwjBJhJiHvQ?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is umask? (intermediate)](https://youtu.be/ZfDbUxH99n0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [opinion: don't bother typing tests (intermediate)](https://youtu.be/lGCU0j-otls?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [multiprocesing: slow things first! (intermediate)](https://youtu.be/h4vmU2DJoQg?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
