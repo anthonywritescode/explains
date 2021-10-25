@@ -358,3 +358,4 @@ the full [playlist] is on youtube
 1. [opinion: don't bother typing tests (intermediate)](https://youtu.be/lGCU0j-otls?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [multiprocessing: slow things first! (intermediate)](https://youtu.be/h4vmU2DJoQg?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [bash shortcut: curly expansion (intermediate)](https://youtu.be/r2G0rbm7XJk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [make your own timeout with alarm(...) (intermediate)](https://youtu.be/vGWSdp9dyhI?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
