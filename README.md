@@ -361,3 +361,4 @@ the full [playlist] is on youtube
 1. [make your own timeout with alarm(...) (intermediate)](https://youtu.be/vGWSdp9dyhI?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [pretty recursive diffs! (beginner - intermediate)](https://youtu.be/vEUFrmrS7Hc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [github wikis are repos! (beginner - intermediate)](https://youtu.be/U18COUDlzu8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [python: easy comparable classes with functools.total\_ordering (intermediate)](https://youtu.be/po7iMzrgJwA?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
