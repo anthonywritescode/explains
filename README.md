@@ -363,3 +363,4 @@ the full [playlist] is on youtube
 1. [github wikis are repos! (beginner - intermediate)](https://youtu.be/U18COUDlzu8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python: easy comparable classes with functools.total\_ordering (intermediate)](https://youtu.be/po7iMzrgJwA?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [git without `cd` (intermediate)](https://youtu.be/fQ3-Y99Fzro?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [why remove the python GIL? (intermediate - advanced)](https://youtu.be/6g79qGQo2-Q?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
