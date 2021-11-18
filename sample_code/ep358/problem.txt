@@ -1,0 +1,25 @@
+
+Hours = list[tuple[int, int]]
+
+combine_business_hours(hours: Hours) -> Hours
+
+
+Yelp displays business hours on the webpage!
+
+The data is sourced from several locations, some
+comes from user submitted data and other data is
+purchased and imported from third party provides.
+
+This data is of varying quality so Yelp needs to
+massage this data to make sure it is presentable
+to users.
+
+This interview question is about one stage of
+sanitizing the data: combining adjacent ranges!
+
+Our data will be represented as a list of 2-tuples
+representing the "open" and "close" time.
+
+Here is example:
+
+    [(1, 2), (2, 3), (5, 6)] => [(1, 3), (5, 6)]
