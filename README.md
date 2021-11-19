@@ -368,3 +368,4 @@ the full [playlist] is on youtube
 1. [makefile basics (beginner - intermediate)](https://youtu.be/20GC9mYoFGs?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [how to ace the coding interview (intermediate)](https://youtu.be/eVNkO6g0fP8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python try except and best practices (beginner - intermediate)](https://youtu.be/tIh42X0oGQc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [sorting basics in python (beginner)](https://youtu.be/fqzcnd_FstY?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
