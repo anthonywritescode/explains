@@ -369,3 +369,4 @@ the full [playlist] is on youtube
 1. [how to ace the coding interview (intermediate)](https://youtu.be/eVNkO6g0fP8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python try except and best practices (beginner - intermediate)](https://youtu.be/tIh42X0oGQc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [sorting basics in python (beginner)](https://youtu.be/fqzcnd_FstY?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [multiplying str / list / tuple and pitfalls (beginner - intermediate)](https://youtu.be/ZFjV3M-xl_M?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
