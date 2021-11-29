@@ -372,3 +372,4 @@ the full [playlist] is on youtube
 1. [multiplying str / list / tuple and pitfalls (beginner - intermediate)](https://youtu.be/ZFjV3M-xl_M?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [making your own custom git commands (intermediate)](https://youtu.be/YwG8C0jPapE?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python --version --version is not a typo! (beginner)](https://youtu.be/DIfVUYKZZfs?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [python parameter defaults are (mutable) globals (intermediate)](https://youtu.be/x7kRGQNUJ5I?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
