@@ -374,3 +374,4 @@ the full [playlist] is on youtube
 1. [python --version --version is not a typo! (beginner)](https://youtu.be/DIfVUYKZZfs?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python parameter defaults are (mutable) globals (intermediate)](https://youtu.be/x7kRGQNUJ5I?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python typing: explicit TypeAlias (PEP 613) (intermediate)](https://youtu.be/50SqDLU-6RE?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [python: what is weakref? (intermediate - advanced)](https://youtu.be/GGKerIMqHCk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
