@@ -2,4 +2,4 @@
     comit = commit
     git = !git
     c = commit
-    wat = !wat
+    wat = !echo wat
