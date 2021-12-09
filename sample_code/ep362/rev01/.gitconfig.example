@@ -1,0 +1,5 @@
+[alias]
+    comit = commit
+    git = !git
+    c = commit
+    wat = !wat
