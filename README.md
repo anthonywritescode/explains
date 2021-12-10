@@ -377,3 +377,4 @@ the full [playlist] is on youtube
 1. [python: what is weakref? (intermediate - advanced)](https://youtu.be/GGKerIMqHCk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [pip: requirements vs. constraints (intermediate)](https://youtu.be/SeT-Gj_frd0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python: NewType vs aliases (intermediate)](https://youtu.be/9rRYeunzX8c?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [quick debugging tool: python -i (beginner)](https://youtu.be/B4wkrdcc28A?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
