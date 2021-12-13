@@ -1,0 +1,2 @@
+astpretty==2.1.0
+pre-commit==2.15.0
