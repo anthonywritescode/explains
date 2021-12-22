@@ -382,3 +382,4 @@ the full [playlist] is on youtube
 1. [what are python wheels? (intermediate - advanced)](https://youtu.be/4L0Jb3Ku81s?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [recursively import python modules (intermediate)](https://youtu.be/t43zBsVcva0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [git commit as someone else? (intermediate)](https://youtu.be/bQ2OiciywyA?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [what is PROMPT\_COMMAND? (+aactivator) (intermediate)](https://youtu.be/GFLivv2QGI0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
