@@ -383,3 +383,4 @@ the full [playlist] is on youtube
 1. [recursively import python modules (intermediate)](https://youtu.be/t43zBsVcva0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [git commit as someone else? (intermediate)](https://youtu.be/bQ2OiciywyA?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is PROMPT\_COMMAND? (+aactivator) (intermediate)](https://youtu.be/GFLivv2QGI0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [python: what is `__file__`? (beginner - intermediate)](https://youtu.be/LVhxqOznPg0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
