@@ -385,3 +385,4 @@ the full [playlist] is on youtube
 1. [what is PROMPT\_COMMAND? (+aactivator) (intermediate)](https://youtu.be/GFLivv2QGI0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python: what is `__file__`? (beginner - intermediate)](https://youtu.be/LVhxqOznPg0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [job management: fg / bg / ^Z, & and more! (intermediate)](https://youtu.be/lkQOQAc65ZA?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [for loops are just while loops in disguise (beginner - intermediate)](https://youtu.be/Pq2aXxTKFv4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
