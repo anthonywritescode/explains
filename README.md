@@ -387,3 +387,4 @@ the full [playlist] is on youtube
 1. [job management: fg / bg / ^Z, & and more! (intermediate)](https://youtu.be/lkQOQAc65ZA?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [for loops are just while loops in disguise (beginner - intermediate)](https://youtu.be/Pq2aXxTKFv4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [configuring git from environment vars (intermediate)](https://youtu.be/RVZeTpVpwS4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [mypy: possible cyclic definition fix (intermediate)](https://youtu.be/O_CYtaDlOO4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
