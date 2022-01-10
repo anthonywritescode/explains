@@ -389,3 +389,4 @@ the full [playlist] is on youtube
 1. [configuring git from environment vars (intermediate)](https://youtu.be/RVZeTpVpwS4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [mypy: possible cyclic definition fix (intermediate)](https://youtu.be/O_CYtaDlOO4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [git: what does "fast forward" mean? (intermediate)](https://youtu.be/Vy0JIwQoI-E?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [pathlib is slow! falsey is tricky! (pytest bug) (intermediate - advanced)](https://youtu.be/qiZyDLEJHh0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
