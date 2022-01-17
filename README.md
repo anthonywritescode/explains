@@ -392,3 +392,4 @@ the full [playlist] is on youtube
 1. [pathlib is slow! falsey is tricky! (pytest bug) (intermediate - advanced)](https://youtu.be/qiZyDLEJHh0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [don't lru\_cache methods! (intermediate)](https://youtu.be/sVjtp6tGo0g?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [github: give people credit! (beginner - intermediate)](https://youtu.be/_-qNX8EbVYI?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [dropping old python versions (intermediate)](https://youtu.be/Oun5kXqENMk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
