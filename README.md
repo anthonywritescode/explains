@@ -394,3 +394,4 @@ the full [playlist] is on youtube
 1. [github: give people credit! (beginner - intermediate)](https://youtu.be/_-qNX8EbVYI?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [dropping old python versions (intermediate)](https://youtu.be/Oun5kXqENMk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [useful interview data structures: heapq (intermediate)](https://youtu.be/sRLuocdQfEw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [decorator typing (PEP 612) (intermediate - advanced)](https://youtu.be/fwZoxWyMGM8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
