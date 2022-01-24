@@ -395,3 +395,4 @@ the full [playlist] is on youtube
 1. [dropping old python versions (intermediate)](https://youtu.be/Oun5kXqENMk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [useful interview data structures: heapq (intermediate)](https://youtu.be/sRLuocdQfEw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [decorator typing (PEP 612) (intermediate - advanced)](https://youtu.be/fwZoxWyMGM8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [python: what is 0-arg raise? (beginner)](https://youtu.be/yj4z1N3_0sw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
