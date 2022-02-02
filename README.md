@@ -399,3 +399,4 @@ the full [playlist] is on youtube
 1. [time vs. /bin/time (beginner - intermediate)](https://youtu.be/hJ5LT4AGf3Y?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is an open redirect vulnerability? (intermediate)](https://youtu.be/ziGvS7XLWDU?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [how an exit(n) bug introduced 100s of lint errors (intermediate)](https://youtu.be/RVSw1BGNmq8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [hiding big noisy git diffs (intermediate)](https://youtu.be/zVlISs2fnzw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
