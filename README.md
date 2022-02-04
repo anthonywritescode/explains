@@ -400,3 +400,4 @@ the full [playlist] is on youtube
 1. [what is an open redirect vulnerability? (intermediate)](https://youtu.be/ziGvS7XLWDU?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [how an exit(n) bug introduced 100s of lint errors (intermediate)](https://youtu.be/RVSw1BGNmq8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [hiding big noisy git diffs (intermediate)](https://youtu.be/zVlISs2fnzw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [recovering from git mistakes w/ ORIG\_HEAD (intermediate)](https://youtu.be/yhtq_PSekdo?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
