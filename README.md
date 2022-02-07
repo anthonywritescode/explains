@@ -401,3 +401,4 @@ the full [playlist] is on youtube
 1. [how an exit(n) bug introduced 100s of lint errors (intermediate)](https://youtu.be/RVSw1BGNmq8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [hiding big noisy git diffs (intermediate)](https://youtu.be/zVlISs2fnzw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [recovering from git mistakes w/ ORIG\_HEAD (intermediate)](https://youtu.be/yhtq_PSekdo?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [the `timeout` command (beginner - intermediate)](https://youtu.be/QRywzsBftfc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
