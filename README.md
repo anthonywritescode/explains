@@ -402,3 +402,4 @@ the full [playlist] is on youtube
 1. [hiding big noisy git diffs (intermediate)](https://youtu.be/zVlISs2fnzw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [recovering from git mistakes w/ ORIG\_HEAD (intermediate)](https://youtu.be/yhtq_PSekdo?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [the `timeout` command (beginner - intermediate)](https://youtu.be/QRywzsBftfc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [python code formatter tutorial (intermediate - advanced)](https://youtu.be/G1omxo5pphw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
