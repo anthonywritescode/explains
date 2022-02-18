@@ -405,3 +405,4 @@ the full [playlist] is on youtube
 1. [python code formatter tutorial (intermediate - advanced)](https://youtu.be/G1omxo5pphw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [why did I run `cd $PWD` ??? (beginner - intermediate)](https://youtu.be/7tSVb0d0fyA?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [my python project setup (+ all tools) (intermediate)](https://youtu.be/q8DkatMZvUs?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [python can import from zips! (intermediate)](https://youtu.be/XCMOeFN6zX4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
