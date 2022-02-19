@@ -68,11 +68,12 @@ def main() -> int:
         f.write('explains\n')
         f.write('========\n')
         f.write('\n')
-        f.write('[update playlist]\n')
+        workflow_link = 'https://github.com/anthonywritescode/explains/actions/workflows/update.yml'  # noqa: E501
+        f.write(f'[![]({workflow_link}/badge.svg)][update playlist]\n')
         f.write('\n')
         f.write('the full [playlist] is on youtube\n')
         f.write('\n')
-        f.write('[update playlist]: https://github.com/anthonywritescode/explains/actions?query=workflow%3Aupdate\n')  # noqa: E501
+        f.write(f'[update playlist]: {workflow_link}\n')
         playlist_link = f'https://www.youtube.com/playlist?list={playlist_id}'
         f.write(f'[playlist]: {playlist_link}\n')
         f.write('\n')
@@ -85,4 +86,4 @@ def main() -> int:
 
 
 if __name__ == '__main__':
-    exit(main())
+    raise SystemExit(main())
