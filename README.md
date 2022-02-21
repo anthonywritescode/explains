@@ -406,3 +406,4 @@ the full [playlist] is on youtube
 1. [why did I run `cd $PWD` ??? (beginner - intermediate)](https://youtu.be/7tSVb0d0fyA?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [my python project setup (+ all tools) (intermediate)](https://youtu.be/q8DkatMZvUs?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python can import from zips! (intermediate)](https://youtu.be/XCMOeFN6zX4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [from imports aren't faster! (beginner - intermediate)](https://youtu.be/ZWCyNz0fUsc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
