@@ -407,3 +407,4 @@ the full [playlist] is on youtube
 1. [my python project setup (+ all tools) (intermediate)](https://youtu.be/q8DkatMZvUs?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python can import from zips! (intermediate)](https://youtu.be/XCMOeFN6zX4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [from imports aren't faster! (beginner - intermediate)](https://youtu.be/ZWCyNz0fUsc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [what is a .so / .dll / shared object? (intermediate - advanced)](https://youtu.be/PDkKz3zQVls?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
