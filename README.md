@@ -409,3 +409,4 @@ the full [playlist] is on youtube
 1. [from imports aren't faster! (beginner - intermediate)](https://youtu.be/ZWCyNz0fUsc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is a .so / .dll / shared object? (intermediate - advanced)](https://youtu.be/PDkKz3zQVls?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is inlining? and how does it make code faster? (intermediate)](https://youtu.be/ct-eBvjsPck?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [finding and fixing test pollution! (intermediate)](https://youtu.be/FRteianaPMo?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
