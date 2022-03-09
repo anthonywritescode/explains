@@ -413,3 +413,4 @@ the full [playlist] is on youtube
 1. [how to modify a list while iterating (intermediate)](https://youtu.be/JXis-BKRDFY?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [fix flaky tests with detect-test-pollution! (intermediate)](https://youtu.be/w5O4zTusyJ0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [a python curses wordle clone from scratch! (intermediate - advanced)](https://youtu.be/dViRI1iovoc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [why does `cd --` go to ~ ? (intermediate)](https://youtu.be/vrIsG0Rw5xY?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
