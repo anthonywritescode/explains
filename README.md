@@ -416,3 +416,4 @@ the full [playlist] is on youtube
 1. [why does `cd --` go to ~ ? (intermediate)](https://youtu.be/vrIsG0Rw5xY?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [the `split` command! (beginner - intermediate)](https://youtu.be/Ox95VqtRC28?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [don't run `python my/script.py`! (beginner - intermediate)](https://youtu.be/hgCVIa5qQhM?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [what's that unicode character‽ (beginner - intermediate)](https://youtu.be/W60RS8PMP78?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
