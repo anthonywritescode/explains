@@ -420,3 +420,4 @@ the full [playlist] is on youtube
 1. [what is the `shred` command? (beginner - intermediate)](https://youtu.be/2yt5u5JanwA?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [getting a python stacktrace from gdb! (intermediate - advanced)](https://youtu.be/guni3oUdTIs?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [the fastest python startup with `python -S` (intermediate)](https://youtu.be/lCwz4S2vCH8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [what is immutability? (beginner - intermediate)](https://youtu.be/OjLxyRyzzuY?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
