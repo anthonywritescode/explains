@@ -422,3 +422,4 @@ the full [playlist] is on youtube
 1. [the fastest python startup with `python -S` (intermediate)](https://youtu.be/lCwz4S2vCH8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is immutability? (beginner - intermediate)](https://youtu.be/OjLxyRyzzuY?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is rpath? (+relocatability) (intermediate - advanced)](https://youtu.be/01fnuhjMwc0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [`pip install pkg❮1.999` ? (intermediate)](https://youtu.be/JzEAYIPdFX4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
