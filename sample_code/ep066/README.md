@@ -32,5 +32,5 @@ python
 sqlite3
 node
 sh
-# Keyboard shortcut: Ctrl-D
+# Keyboard shortcut: Ctrl-d
 ```

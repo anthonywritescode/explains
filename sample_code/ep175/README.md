@@ -8,15 +8,15 @@ Today I share another tip I wish I knew earlier -- a more powerful keyboard to t
 
 ```bash
 python t.py
-# Ctrl + C
-# Ctrl + Z
+# Ctrl-c
+# Ctrl-z
 bg
 fg
-# Ctrl + Z
+# Ctrl-z
 kill %1
 ps -ef | grep python
 
 python t.py
-# Ctrl + \
+# Ctrl-\
 ls core
 ```

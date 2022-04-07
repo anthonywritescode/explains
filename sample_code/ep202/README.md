@@ -16,7 +16,7 @@ clear | hd -c
 echo -e '\033[H\033[2J\033[3J'
 echo -n -e '\033[H\033[2J\033[3J'
 
-# Ctrl + L
+# Ctrl-l
 
 virtualenv venv
 . venv/bin/activate

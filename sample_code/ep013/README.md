@@ -29,7 +29,7 @@ echo '$x bar'
 
 echo "$x bar"
 
-echo 'asdf<Ctrl-V-TAB>bar'
+echo 'asdf<Ctrl-v-TAB>bar'
 
-echo 'asdf<Ctrl-V-ESC>asdf'
+echo 'asdf<Ctrl-v-ESC>asdf'
 ```
