@@ -16,5 +16,5 @@ unset EDITOR
 fc
 
 pytest part1.py && python part1.py
-# Ctrl + x + e
+# Ctrl-x-e
 ```
