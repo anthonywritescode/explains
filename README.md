@@ -425,3 +425,4 @@ the full [playlist] is on youtube
 1. [`pip install pkg❮1.999` ? (intermediate)](https://youtu.be/JzEAYIPdFX4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [10 protips I wish I knew sooner as a software dev (beginner)](https://youtu.be/_wcVyhfyaeE?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [embedding images in github (beginner - intermediate)](https://youtu.be/8088ORqS3uY?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [how I sped up python by 20ms (intermediate)](https://youtu.be/kI9WjDNxRJM?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
