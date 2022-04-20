@@ -428,3 +428,4 @@ the full [playlist] is on youtube
 1. [how I sped up python by 20ms (intermediate)](https://youtu.be/kI9WjDNxRJM?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [typing Self (PEP 673) (intermediate)](https://youtu.be/ThATVufmTz8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [you don't need .git! (beginner)](https://youtu.be/BW7z9TO0Fqg?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [I don't need `__init__.py`? PEP 420 and namespace packages (intermediate)](https://youtu.be/2Xvb79hOUdM?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
