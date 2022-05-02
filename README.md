@@ -432,3 +432,4 @@ the full [playlist] is on youtube
 1. [repr(...) doesn't work the way you expect (intermediate - advanced)](https://youtu.be/e3bqdxqLvH4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [DVD screensaver in python curses (intermediate)](https://youtu.be/mVwAehkeBkI?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [double underscored names are NOT "more private" (beginner - intermediate)](https://youtu.be/IVqLW1NWtPc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [FizzBuzz... but in sqlite? (intermediate)](https://youtu.be/UdhcvNSFRgU?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
