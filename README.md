@@ -433,3 +433,4 @@ the full [playlist] is on youtube
 1. [DVD screensaver in python curses (intermediate)](https://youtu.be/mVwAehkeBkI?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [double underscored names are NOT "more private" (beginner - intermediate)](https://youtu.be/IVqLW1NWtPc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [FizzBuzz... but in sqlite? (intermediate)](https://youtu.be/UdhcvNSFRgU?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. ["z3" is actual magic (intermediate)](https://youtu.be/C9eXcmWWEyA?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
