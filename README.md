@@ -435,3 +435,4 @@ the full [playlist] is on youtube
 1. [FizzBuzz... but in sqlite? (intermediate)](https://youtu.be/UdhcvNSFRgU?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. ["z3" is actual magic (intermediate)](https://youtu.be/C9eXcmWWEyA?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [bash quoting is really not that difficult! (beginner - intermediate)](https://youtu.be/VIUoHnFwEH4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [I made pip startup 25% faster (intermediate)](https://youtu.be/GmK1So7F0ZQ?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
