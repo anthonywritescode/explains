@@ -437,3 +437,4 @@ the full [playlist] is on youtube
 1. [bash quoting is really not that difficult! (beginner - intermediate)](https://youtu.be/VIUoHnFwEH4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [I made pip startup 25% faster (intermediate)](https://youtu.be/GmK1So7F0ZQ?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [how to use python backports + setup.py (intermediate)](https://youtu.be/B94tqnXeFnQ?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [setting up an ubuntu jammy (22.04) development machine (beginner)](https://youtu.be/tSUlg3yN4-k?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
