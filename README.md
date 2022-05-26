@@ -439,6 +439,6 @@ the full [playlist] is on youtube
 1. [how to use python backports + setup.py (intermediate)](https://youtu.be/B94tqnXeFnQ?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [setting up an ubuntu jammy (22.04) development machine (beginner)](https://youtu.be/tSUlg3yN4-k?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python Generics (intermediate)](https://youtu.be/LcfxUU1A-RQ?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
-1. [babi+ast helped me from breaking sentry! (intermediate)](https://youtu.be/Fch_lt7ZXUw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [babi+ast helped me not break sentry! (intermediate)](https://youtu.be/Fch_lt7ZXUw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python comprehensions leak scope again (intermediate)](https://youtu.be/ONy8xXbdcUc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python variadic generics (PEP 646) (intermediate - advanced)](https://youtu.be/hAj3nGzeSiQ?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
