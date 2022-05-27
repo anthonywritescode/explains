@@ -442,3 +442,4 @@ the full [playlist] is on youtube
 1. [babi+ast helped me not break sentry! (intermediate)](https://youtu.be/Fch_lt7ZXUw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python comprehensions leak scope again (intermediate)](https://youtu.be/ONy8xXbdcUc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python variadic generics (PEP 646) (intermediate - advanced)](https://youtu.be/hAj3nGzeSiQ?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [top 10 new things in python 3.11 (beginner - advanced)](https://youtu.be/w2rcZIG1Uxk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
