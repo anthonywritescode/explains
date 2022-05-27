@@ -1,4 +1,4 @@
-# [babi+ast helped me from breaking sentry! (intermediate)](https://youtu.be/Fch_lt7ZXUw)
+# [babi+ast helped me not break sentry! (intermediate)](https://youtu.be/Fch_lt7ZXUw)
 
 Today I show off a cool workflow I used with my text editor and an ast parser and how I used it to do a code audit!
 
