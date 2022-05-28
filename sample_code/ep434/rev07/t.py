@@ -1,0 +1,45 @@
+import asyncio
+
+
+async def f1(x: int) -> None:
+    await asyncio.sleep(x / 10)
+    print(f'hi from {x}')
+
+
+async def f2():
+    raise ValueError(1)
+
+
+async def f3():
+    2 * 3 * (4 * None)
+
+
+async def f4():
+    try:
+        await f3()
+    except TypeError as e:
+        e.add_note('this failed while trying to blah')
+        raise
+
+
+async def amain() -> int:
+    # futures = [f1(i) for i in range(5)]
+    # await asyncio.gather(*futures)
+
+    async with asyncio.TaskGroup() as tg:
+        for i in range(5):
+            tg.create_task(f1(i))
+        tg.create_task(f2())
+        tg.create_task(f2())
+        tg.create_task(f4())
+
+    print('done')
+    return 0
+
+
+def main() -> int:
+    return asyncio.run(amain())
+
+
+if __name__ == '__main__':
+    raise SystemExit(main())
