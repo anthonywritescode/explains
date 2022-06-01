@@ -444,3 +444,4 @@ the full [playlist] is on youtube
 1. [python variadic generics (PEP 646) (intermediate - advanced)](https://youtu.be/hAj3nGzeSiQ?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [top 10 new things in python 3.11 (beginner - advanced)](https://youtu.be/w2rcZIG1Uxk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [assert\_never / assert\_type **CORRECTION** (intermediate)](https://youtu.be/jN_a02Rj8Gg?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [a git workflow for *only my branches* (intermediate)](https://youtu.be/GKBq5Xo_B6I?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
