@@ -26,6 +26,8 @@ print(fr'foo\n{thing}')
 
 '\d+'
 '\u2603'
+
+r'\d+'
 ```
 
 ### Bash
