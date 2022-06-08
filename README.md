@@ -447,3 +447,4 @@ the full [playlist] is on youtube
 1. [a git workflow for *only my branches* (intermediate)](https://youtu.be/GKBq5Xo_B6I?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [regex lookahead / lookbehind (intermediate)](https://youtu.be/AjTy0DBK-18?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [are your python tests even running? (intermediate)](https://youtu.be/0nPS_vVmhp0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [python TypeGuard (PEP 647) (intermediate)](https://youtu.be/Zv2K2AVy5lA?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
