@@ -449,3 +449,4 @@ the full [playlist] is on youtube
 1. [are your python tests even running? (intermediate)](https://youtu.be/0nPS_vVmhp0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python TypeGuard (PEP 647) (intermediate)](https://youtu.be/Zv2K2AVy5lA?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [how I fixed a 9GB memory leak in cargo (rust) (intermediate)](https://youtu.be/uxJhAXdBlbc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [dealing with merge conflicts (beginner - intermediate)](https://youtu.be/vQY309QQfuQ?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
