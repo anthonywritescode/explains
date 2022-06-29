@@ -18,8 +18,8 @@ make prefix=$PWD/prefix -j6 install
 
 git log -G GIT_CONFIG_KEY
 git log -G GIT_CONFIG_KEY -- '*.c'
-git show <commit>
-git describe --contains <commit>
+git show <commit_hash>
+git describe --contains <commit_hash>
 
 ls prefix/bin/
 export PATH=$PWD/prefix/bin:$PATH
