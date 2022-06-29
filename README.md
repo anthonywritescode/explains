@@ -453,3 +453,4 @@ the full [playlist] is on youtube
 1. [what is an --orphan git branch? (intermediate)](https://youtu.be/XLuD7KJLMwE?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [narrow python? len('🙃') == 2??? (intermediate)](https://youtu.be/ht3ezs3O9Yo?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is gbp? (intermediate - advanced)](https://youtu.be/Nu4TIETrktY?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [argparse: boolean option pitfall (beginner - intermediate)](https://youtu.be/KuwR0GPylqE?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
