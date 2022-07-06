@@ -456,3 +456,4 @@ the full [playlist] is on youtube
 1. [argparse: boolean option pitfall (beginner - intermediate)](https://youtu.be/KuwR0GPylqE?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [cd is not an executable (beginner)](https://youtu.be/1Ld5qv4-Pbo?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is a universal2 wheel? (intermediate)](https://youtu.be/utdohIoR9ZM?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [docker: fast CI rebuilds with --cache-from (intermediate)](https://youtu.be/77j6JFBTmTc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
