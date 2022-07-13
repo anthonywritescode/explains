@@ -458,3 +458,4 @@ the full [playlist] is on youtube
 1. [what is a universal2 wheel? (intermediate)](https://youtu.be/utdohIoR9ZM?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [docker: fast CI rebuilds with --cache-from (intermediate)](https://youtu.be/77j6JFBTmTc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [debugging a real issue and googling (beginner - intermediate)](https://youtu.be/IQsat6EA0-M?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [regex backreferences (intermediate)](https://youtu.be/gPMpRw1xUA8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
