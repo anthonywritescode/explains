@@ -461,3 +461,4 @@ the full [playlist] is on youtube
 1. [regex backreferences (intermediate)](https://youtu.be/gPMpRw1xUA8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [why I banned python's assertRaises (intermediate)](https://youtu.be/Q_HMOBD09ts?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [safer github personal access tokens (intermediate)](https://youtu.be/GsjD5tZWqmM?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [bash strict mode gotcha (intermediate)](https://youtu.be/oqq5k8XsrSs?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
