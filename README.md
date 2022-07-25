@@ -463,3 +463,4 @@ the full [playlist] is on youtube
 1. [safer github personal access tokens (intermediate)](https://youtu.be/GsjD5tZWqmM?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [bash strict mode gotcha (intermediate)](https://youtu.be/oqq5k8XsrSs?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [javascript sucks at unicode (intermediate)](https://youtu.be/PTJAvcpBdWo?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [pip freezing (==) isn't safe (intermediate)](https://youtu.be/oGpyupM52IQ?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
