@@ -467,4 +467,4 @@ the full [playlist] is on youtube
 1. [python regex dynamic replacements (intermediate)](https://youtu.be/o_PD7AAbs4U?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [how I made my import sorter 7x faster (intermediate)](https://youtu.be/Q3menOSxRC4?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what release was this fixed? (workflow) (intermediate)](https://youtu.be/7f3UdjuQYtw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
-1. [safely stealing github secrets with crypto (intermediate)](https://youtu.be/qjnEZ-3uYjc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [safely stealing github secrets with cryptography (intermediate)](https://youtu.be/qjnEZ-3uYjc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
