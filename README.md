@@ -469,3 +469,4 @@ the full [playlist] is on youtube
 1. [what release was this fixed? (workflow) (intermediate)](https://youtu.be/7f3UdjuQYtw?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [safely stealing github secrets with cryptography (intermediate)](https://youtu.be/qjnEZ-3uYjc?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [how I sped up flake8 by 20% (intermediate)](https://youtu.be/pvSk8pLLQrE?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [github's semi-secret by-id apis (intermediate)](https://youtu.be/_XkkiwoiFU0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
