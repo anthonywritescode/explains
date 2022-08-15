@@ -471,3 +471,4 @@ the full [playlist] is on youtube
 1. [how I sped up flake8 by 20% (intermediate)](https://youtu.be/pvSk8pLLQrE?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [github's semi-secret by-id apis (intermediate)](https://youtu.be/_XkkiwoiFU0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is a natural sort? (beginner - intermediate)](https://youtu.be/RaE66ycBRE0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [relocatable macos binaries (advanced)](https://youtu.be/OL7JTiJs-d8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
