@@ -473,3 +473,4 @@ the full [playlist] is on youtube
 1. [what is a natural sort? (beginner - intermediate)](https://youtu.be/RaE66ycBRE0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [relocatable macos binaries (advanced)](https://youtu.be/OL7JTiJs-d8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is nullcontext? (conditional contexts, pytest) (intermediate)](https://youtu.be/XcyVxmkrKXk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [why do I use azure pipelines instead of github actions? (intermediate)](https://youtu.be/NEl4JfZ4of8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
