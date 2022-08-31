@@ -478,3 +478,4 @@ the full [playlist] is on youtube
 1. [what is musllinux (PEP 656) (intermediate)](https://youtu.be/QAbveJB5kk8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [easy try rust as a python dev (intermediate)](https://youtu.be/ZGlEIetFNf0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [why can't I signal a MagicMock() ? (intermediate)](https://youtu.be/nJwc7iqyQwU?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [why does python think -1**0 is -1 ? (intermediate)](https://youtu.be/T49G4WwmvnA?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
