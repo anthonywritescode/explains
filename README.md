@@ -479,3 +479,4 @@ the full [playlist] is on youtube
 1. [easy try rust as a python dev (intermediate)](https://youtu.be/ZGlEIetFNf0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [why can't I signal a MagicMock() ? (intermediate)](https://youtu.be/nJwc7iqyQwU?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [why does python think -1**0 is -1 ? (intermediate)](https://youtu.be/T49G4WwmvnA?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [how do from imports keep their globals? (intermediate)](https://youtu.be/FSPyCD5P76A?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
