@@ -481,3 +481,4 @@ the full [playlist] is on youtube
 1. [why does python think -1**0 is -1 ? (intermediate)](https://youtu.be/T49G4WwmvnA?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [how do from imports keep their globals? (intermediate)](https://youtu.be/FSPyCD5P76A?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python int DoS vulnerability (CVE 2020-10735) (beginner - intermediate)](https://youtu.be/lIniq12cMK0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [docker multi-arch images (intermediate)](https://youtu.be/G6wCo1WBPTo?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
