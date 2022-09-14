@@ -484,3 +484,4 @@ the full [playlist] is on youtube
 1. [docker multi-arch images (intermediate)](https://youtu.be/G6wCo1WBPTo?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python: don't use urlparse! (beginner - intermediate)](https://youtu.be/ABJvdsIANds?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [why does python report macos 10.16 ??? (intermediate)](https://youtu.be/Kg8s2YV-aFE?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [the docker registry api (advanced)](https://youtu.be/Ce9var-Fty8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
