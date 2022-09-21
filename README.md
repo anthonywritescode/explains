@@ -486,3 +486,4 @@ the full [playlist] is on youtube
 1. [why does python report macos 10.16 ??? (intermediate)](https://youtu.be/Kg8s2YV-aFE?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [the docker registry api (advanced)](https://youtu.be/Ce9var-Fty8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [urllib3\[secure\]'s clever deprecation trick (intermediate)](https://youtu.be/_jUXdX8e9Wg?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [functools.wraps for classes (intermediate)](https://youtu.be/rbEqoOIvFko?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
