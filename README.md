@@ -487,3 +487,4 @@ the full [playlist] is on youtube
 1. [the docker registry api (advanced)](https://youtu.be/Ce9var-Fty8?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [urllib3\[secure\]'s clever deprecation trick (intermediate)](https://youtu.be/_jUXdX8e9Wg?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [functools.wraps for classes (intermediate)](https://youtu.be/rbEqoOIvFko?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [avoiding shell injection in github actions (intermediate)](https://youtu.be/7w0Ns8C1shQ?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
