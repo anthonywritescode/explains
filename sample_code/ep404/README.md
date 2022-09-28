@@ -10,7 +10,7 @@ Today I build a working "wordle" clone in python with curses!
 - 5 letter words
 - 6 guesses
 - green for correct guess
-- yellow for correct but wrong possition
+- yellow for correct but wrong position
 - repeats aren't additionally yellow
 
   A A A A A
