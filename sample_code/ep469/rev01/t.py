@@ -12,7 +12,7 @@ def main():
     os.kill(os.getpid(), signal.SIGTERM)
     time.sleep(.1)
 
-    assert handler.call_count == 1
+    assert handler.call_count == 1, handler.call_count
 
 
 if __name__ == '__main__':

@@ -1,22 +1,15 @@
-# [why can't I signal a MagicMock() ? (intermediate)](https://www.youtube.com/watch?v=nJwc7iqyQwU)
+# [why can't I signal a MagicMock() ? (intermediate)](https://youtu.be/nJwc7iqyQwU)
 
 Today I show how I debugged a stackoverflow question about signaling a MagicMock (as well as how to fix it!)
 
 ## Interactive examples
 
-### Bash
+### Python
 
-Session 1:
-
-```bash
-babi t.py
-python3 t.py
-```
-
-Session 2:
-
-```bash
-kill -l
+```python
+from unittest import mock
+m = mock.Mock()
+m()
 ```
 
 ### Python debugger (pdb)
@@ -27,14 +20,14 @@ s
 _signal
 _enum_to_int(handler)
 handler
+handler.__int__
 handler.__int__()
-q
 ```
 
-### Python
+### Bash
 
-```python
-from unittest import mock
-m = mock.Mock()
-m()
+```bash
+python t.py
+
+kill -l
 ```

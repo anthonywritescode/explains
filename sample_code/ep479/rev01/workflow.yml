@@ -1,0 +1,16 @@
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - run: |
+        docker login \
+          --username '${{ github.actor }}' \
+          --password '${{ secrets.GITHUB_TOKEN }}' \
+          ghcr.io
+      if: github.event_name != 'pull_request'

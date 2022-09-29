@@ -7,9 +7,7 @@ from unittest import mock
 def main():
     handler = mock.MagicMock()
 
-    def handler(*a, **k):
-        print('I got called')
-
+    breakpoint()
     signal.signal(signal.SIGTERM, handler)
 
     os.kill(os.getpid(), signal.SIGTERM)
