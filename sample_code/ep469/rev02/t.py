@@ -1,11 +1,11 @@
 import os
 import signal
 import time
-from unittest import mock
 
 
 def main():
-    handler = mock.MagicMock()
+    def handler(*a, **k):
+        print('I got called')
 
     signal.signal(signal.SIGTERM, handler)
 

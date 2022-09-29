@@ -5,15 +5,14 @@ from unittest import mock
 
 
 def main():
-    handler = mock.MagicMock()
+    handler = mock.Mock()
 
-    breakpoint()
     signal.signal(signal.SIGTERM, handler)
 
     os.kill(os.getpid(), signal.SIGTERM)
     time.sleep(.1)
 
-    assert handler.call_count == 1
+    assert handler.call_count == 1, handler.call_count
 
 
 if __name__ == '__main__':
