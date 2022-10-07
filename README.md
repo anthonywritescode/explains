@@ -489,3 +489,4 @@ the full [playlist] is on youtube
 1. [functools.wraps for classes (intermediate)](https://youtu.be/rbEqoOIvFko?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [avoiding shell injection in github actions (intermediate)](https://youtu.be/7w0Ns8C1shQ?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is coverage? (intermediate)](https://youtu.be/eQM3TOjsM_Q?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [don't make images of code / text! (beginner)](https://youtu.be/svlsnZFWWDE?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
