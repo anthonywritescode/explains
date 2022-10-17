@@ -492,3 +492,4 @@ the full [playlist] is on youtube
 1. [don't make images of code / text! (beginner)](https://youtu.be/svlsnZFWWDE?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is "short circuiting"? (beginner - intermediate)](https://youtu.be/tsrlQ8v4UaM?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [what is the "unraisable" hook (intermediate)](https://youtu.be/G4Lya0KVG1E?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [how does swapping work in python? (beginner - intermediate)](https://youtu.be/cMiqfkpMh08?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
