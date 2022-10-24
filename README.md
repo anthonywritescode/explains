@@ -495,3 +495,4 @@ the full [playlist] is on youtube
 1. [how does swapping work in python? (beginner - intermediate)](https://youtu.be/cMiqfkpMh08?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [hiding your email on github (beginner)](https://youtu.be/O3e19cwX6uY?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python warnings defaults suck (intermediate)](https://youtu.be/CtFdXBEwYfk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [pytest: everything you need to know about fixtures (intermediate)](https://youtu.be/ScEQRKwUePI?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
