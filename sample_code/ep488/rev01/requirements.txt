@@ -1,0 +1,5 @@
+babi-grammars
+identify
+onigurumacffi>=0.0.18
+importlib-metadata>=1;python_version<"3.8"
+windows-curses;sys_platform=="win32"
