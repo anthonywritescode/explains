@@ -498,3 +498,4 @@ the full [playlist] is on youtube
 1. [pytest: everything you need to know about fixtures (intermediate)](https://youtu.be/ScEQRKwUePI?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [python os / platform-specific deps (PEP 508) (intermediate)](https://youtu.be/cNQhpprVyn0?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 1. [I don't use pytest-cov (intermediate)](https://youtu.be/sPgvHGkmd0U?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
+1. [RegCPython: a 10% faster python for free? (intermediate - advanced)](https://youtu.be/MQ2Lfj2hAdk?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
