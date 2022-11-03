@@ -26,10 +26,10 @@ def _fixup_title(s: str) -> str:
     )
 
 
-def _video_link(video: Dict[str, Any], playlist_id: str) -> str:
+def _video_link(video: Dict[str, Any]) -> str:
     video_id = video['snippet']['resourceId']['videoId']
     title = _fixup_title(video['snippet']['title'])
-    return f'[{title}](https://youtu.be/{video_id}?list={playlist_id})'
+    return f'[{title}](https://youtu.be/{video_id}'
 
 
 def main() -> int:
@@ -77,9 +77,9 @@ def main() -> int:
         f.write(f'[playlist]: {playlist_link}\n')
         f.write('\n')
 
-        f.write(f'0. {_video_link(videos[0], playlist_id)}\n')
+        f.write(f'0. {_video_link(videos[0])}\n')
         for video in videos[1:]:
-            f.write(f'1. {_video_link(video, playlist_id)}\n')
+            f.write(f'1. {_video_link(video)}\n')
 
     return 0
 
