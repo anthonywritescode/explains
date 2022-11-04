@@ -29,7 +29,7 @@ def _fixup_title(s: str) -> str:
 def _video_link(video: Dict[str, Any]) -> str:
     video_id = video['snippet']['resourceId']['videoId']
     title = _fixup_title(video['snippet']['title'])
-    return f'[{title}](https://youtu.be/{video_id}'
+    return f'[{title}](https://youtu.be/{video_id})'
 
 
 def main() -> int:
