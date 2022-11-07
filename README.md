@@ -501,3 +501,4 @@ the full [playlist] is on youtube
 1. [RegCPython: a 10% faster python for free? (intermediate - advanced)](https://youtu.be/MQ2Lfj2hAdk)
 1. [avoid notification spam with draft PRs! (beginner)](https://youtu.be/LOLpOTYzknI)
 1. [multiprocessing: fork() vs. spawn() (intermediate)](https://youtu.be/hzBtsDPJ1dM)
+1. [this clever hack let me kill py (intermediate)](https://youtu.be/aZS3_-y6vsg)
