@@ -502,3 +502,4 @@ the full [playlist] is on youtube
 1. [avoid notification spam with draft PRs! (beginner)](https://youtu.be/LOLpOTYzknI)
 1. [multiprocessing: fork() vs. spawn() (intermediate)](https://youtu.be/hzBtsDPJ1dM)
 1. [this clever hack let me kill py (intermediate)](https://youtu.be/aZS3_-y6vsg)
+1. [do this first before opening an issue (beginner)](https://youtu.be/cGYVGVsXNFM)
