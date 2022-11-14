@@ -504,3 +504,4 @@ the full [playlist] is on youtube
 1. [this clever hack let me kill py (intermediate)](https://youtu.be/aZS3_-y6vsg)
 1. [do this first before opening an issue (beginner)](https://youtu.be/cGYVGVsXNFM)
 1. [securing python with audit hooks (PEP 578) (intermediate)](https://youtu.be/sIibadhDqaw)
+1. [python sucks at copy-on-write (and one fix!) (intermediate)](https://youtu.be/sdmcCQ7Em04)
