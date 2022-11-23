@@ -507,3 +507,4 @@ the full [playlist] is on youtube
 1. [python sucks at copy-on-write (and one fix!) (intermediate)](https://youtu.be/sdmcCQ7Em04)
 1. [git is just a key value store? (advanced)](https://youtu.be/HvA-WkXqlDI)
 1. [refcount ONE BILLION? (immortal objects, PEP 683) (advanced)](https://youtu.be/i5ZaVC4sEZA)
+1. [partial git commits (intermediate)](https://youtu.be/UJ5fpaeZWsI)
