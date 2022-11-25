@@ -508,3 +508,4 @@ the full [playlist] is on youtube
 1. [git is just a key value store? (advanced)](https://youtu.be/HvA-WkXqlDI)
 1. [refcount ONE BILLION? (immortal objects, PEP 683) (advanced)](https://youtu.be/i5ZaVC4sEZA)
 1. [partial git commits (intermediate)](https://youtu.be/UJ5fpaeZWsI)
+1. [sqlite is my favorite database (beginner - intermediate)](https://youtu.be/jH39c5-y6kg)
