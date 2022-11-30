@@ -509,3 +509,4 @@ the full [playlist] is on youtube
 1. [refcount ONE BILLION? (immortal objects, PEP 683) (advanced)](https://youtu.be/i5ZaVC4sEZA)
 1. [partial git commits (intermediate)](https://youtu.be/UJ5fpaeZWsI)
 1. [sqlite is my favorite database (beginner - intermediate)](https://youtu.be/jH39c5-y6kg)
+1. [virtualenv isn't reproducible! (by default) (intermediate)](https://youtu.be/mgJiCnqzYlI)
