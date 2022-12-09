@@ -511,3 +511,4 @@ the full [playlist] is on youtube
 1. [sqlite is my favorite database (beginner - intermediate)](https://youtu.be/jH39c5-y6kg)
 1. [virtualenv isn't reproducible! (by default) (intermediate)](https://youtu.be/mgJiCnqzYlI)
 1. [--extra-index-url is unsafe! (intermediate)](https://youtu.be/fWquXVcTKjU)
+1. [docker: multi-stage builds (intermediate)](https://youtu.be/OVYNUg0aODw)
