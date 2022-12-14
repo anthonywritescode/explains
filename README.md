@@ -512,3 +512,4 @@ the full [playlist] is on youtube
 1. [virtualenv isn't reproducible! (by default) (intermediate)](https://youtu.be/mgJiCnqzYlI)
 1. [--extra-index-url is unsafe! (intermediate)](https://youtu.be/fWquXVcTKjU)
 1. [docker: multi-stage builds (intermediate)](https://youtu.be/OVYNUg0aODw)
+1. [git: the several ways to "--sign" (intermediate)](https://youtu.be/6hu3cbBhHqQ)
