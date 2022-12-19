@@ -514,3 +514,4 @@ the full [playlist] is on youtube
 1. [docker: multi-stage builds (intermediate)](https://youtu.be/OVYNUg0aODw)
 1. [git: the several ways to "--sign" (intermediate)](https://youtu.be/6hu3cbBhHqQ)
 1. [why I use the colon (:) command (intermediate)](https://youtu.be/onkNf1AKSgg)
+1. [how should I organize my project? (beginner)](https://youtu.be/QGAuwlQ9Gxc)
