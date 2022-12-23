@@ -515,3 +515,4 @@ the full [playlist] is on youtube
 1. [git: the several ways to "--sign" (intermediate)](https://youtu.be/6hu3cbBhHqQ)
 1. [why I use the colon (:) command (intermediate)](https://youtu.be/onkNf1AKSgg)
 1. [how should I organize my project? (beginner)](https://youtu.be/QGAuwlQ9Gxc)
+1. [don't git clone over https! (beginner)](https://youtu.be/5o9ltH6YmtM)
