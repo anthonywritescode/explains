@@ -517,3 +517,4 @@ the full [playlist] is on youtube
 1. [how should I organize my project? (beginner)](https://youtu.be/QGAuwlQ9Gxc)
 1. [don't git clone over https! (beginner)](https://youtu.be/5o9ltH6YmtM)
 1. [don't use cat! (intermediate)](https://youtu.be/vWMiBVkdJjA)
+1. [module level \_\_getattr\_\_ (intermediate)](https://youtu.be/rRwJdMY2f4g)
