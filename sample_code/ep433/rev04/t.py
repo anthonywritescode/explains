@@ -1,7 +1,6 @@
 from typing import Generic
 from typing import TypeVarTuple
 from typing import TypeVar
-from typing import Unpack
 
 T = TypeVar('T')
 Ts = TypeVarTuple('Ts')
