@@ -4,4 +4,5 @@ from typing import TypeVarTuple
 Ts = TypeVarTuple('Ts')
 
 
-class C(Generic[*Ts]): ...
+class C(Generic[*Ts]):
+    ...
