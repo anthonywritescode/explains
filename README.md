@@ -521,3 +521,4 @@ the full [playlist] is on youtube
 1. [why are some things shell builtins? (intermediate)](https://youtu.be/p_KKDHJhi7A)
 1. [python: zip and unzip (intermediate)](https://youtu.be/hOiRkFBxtpo)
 1. [I've moved off of azure pipelines for CI (intermediate)](https://youtu.be/n39uvwdW5ek)
+1. [swapping without a third variable (intermediate)](https://youtu.be/NLwJI6DFF4U)
