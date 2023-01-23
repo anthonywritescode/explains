@@ -526,3 +526,4 @@ the full [playlist] is on youtube
 1. [make a github commit using only the api! (intermediate)](https://youtu.be/nwHqXtk6LHA)
 1. [a simpler `try` / `except` (and why maybe shouldn't) (beginner - intermediate)](https://youtu.be/MZAJ8qnC7mk)
 1. [you're probably doing case-insensitive wrong (intermediate)](https://youtu.be/U-Zq8bURfKc)
+1. [getting started with pytest (beginner - intermediate)](https://youtu.be/mzlH8lp4ISA)
