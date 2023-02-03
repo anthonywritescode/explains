@@ -529,3 +529,4 @@ the full [playlist] is on youtube
 1. [getting started with pytest (beginner - intermediate)](https://youtu.be/mzlH8lp4ISA)
 1. [python descriptors! (advanced)](https://youtu.be/vBys0SwYvCQ)
 1. [don't use short options in scripts (beginner - intermediate)](https://youtu.be/OKqWy2dM2Jo)
+1. [how to escape this VERY MEAN prank (beginner)](https://youtu.be/ZjSWRGzWo88)
