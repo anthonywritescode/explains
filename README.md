@@ -531,3 +531,4 @@ the full [playlist] is on youtube
 1. [don't use short options in scripts (beginner - intermediate)](https://youtu.be/OKqWy2dM2Jo)
 1. [how to escape this VERY MEAN prank (beginner)](https://youtu.be/ZjSWRGzWo88)
 1. [how do virtualenvs actually work (advanced)](https://youtu.be/XFqDHPYfTwE)
+1. [python's optimization mode is mostly useless (intermediate)](https://youtu.be/6kMGphTUOUk)
