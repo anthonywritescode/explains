@@ -533,3 +533,4 @@ the full [playlist] is on youtube
 1. [how do virtualenvs actually work (advanced)](https://youtu.be/XFqDHPYfTwE)
 1. [python's optimization mode is mostly useless (intermediate)](https://youtu.be/6kMGphTUOUk)
 1. [merge queues (intermediate)](https://youtu.be/3vIGZ6_6nzo)
+1. [all string syntaxes (beginner)](https://youtu.be/4Y4VrKa1lVs)
