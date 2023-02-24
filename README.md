@@ -535,3 +535,4 @@ the full [playlist] is on youtube
 1. [merge queues (intermediate)](https://youtu.be/3vIGZ6_6nzo)
 1. [all string syntaxes (beginner)](https://youtu.be/4Y4VrKa1lVs)
 1. [my first rust open source PR (beginner - intermediate)](https://youtu.be/kIaOOYlbPWI)
+1. [tuples! (and their syntax quirks) (beginner)](https://youtu.be/J3-tL6OnFWA)
