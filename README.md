@@ -537,3 +537,4 @@ the full [playlist] is on youtube
 1. [my first rust open source PR (beginner - intermediate)](https://youtu.be/kIaOOYlbPWI)
 1. [tuples! (and their syntax quirks) (beginner)](https://youtu.be/J3-tL6OnFWA)
 1. [how I use git blame (beginner - intermediate)](https://youtu.be/8uuueHkWy-E)
+1. [positional / named only without `*` or `/`? (intermediate)](https://youtu.be/DatCgcsF6B8)
