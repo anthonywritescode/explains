@@ -539,3 +539,4 @@ the full [playlist] is on youtube
 1. [how I use git blame (beginner - intermediate)](https://youtu.be/8uuueHkWy-E)
 1. [positional / named only without `*` or `/`? (intermediate)](https://youtu.be/DatCgcsF6B8)
 1. [why git's --intent-to-add ? (intermediate)](https://youtu.be/GEYfAMpA-38)
+1. [rerunning github checks (beginner - intermediate)](https://youtu.be/OYh22O1B5D0)
