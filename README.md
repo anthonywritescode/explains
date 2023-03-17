@@ -542,3 +542,4 @@ the full [playlist] is on youtube
 1. [rerunning github checks (beginner - intermediate)](https://youtu.be/OYh22O1B5D0)
 1. [shell aliases and bypassing them? (beginner - intermediate)](https://youtu.be/6okEabkL_q0)
 1. [how I made pre-commit's github actions 3x faster (intermediate)](https://youtu.be/5K8k-bSDnU0)
+1. [don't use localhost (intermediate)](https://youtu.be/98SYTvNw1kw)
