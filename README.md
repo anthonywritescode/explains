@@ -544,3 +544,4 @@ the full [playlist] is on youtube
 1. [how I made pre-commit's github actions 3x faster (intermediate)](https://youtu.be/5K8k-bSDnU0)
 1. [don't use localhost (intermediate)](https://youtu.be/98SYTvNw1kw)
 1. [what is a "canary" deploy? (beginner - intermediate)](https://youtu.be/W1uJCzqH0Lk)
+1. [avoiding noisy git matches (beginner - intermediate)](https://youtu.be/zoCuIdZJT1s)
