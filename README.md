@@ -546,3 +546,4 @@ the full [playlist] is on youtube
 1. [what is a "canary" deploy? (beginner - intermediate)](https://youtu.be/W1uJCzqH0Lk)
 1. [avoiding noisy git matches (beginner - intermediate)](https://youtu.be/zoCuIdZJT1s)
 1. [docker pull by sha256 digest (advanced)](https://youtu.be/AiAU7wnPCrQ)
+1. [weird python identity quirk? (intermediate)](https://youtu.be/w4GasVbjIbA)
