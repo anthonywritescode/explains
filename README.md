@@ -549,3 +549,4 @@ the full [playlist] is on youtube
 1. [weird python identity quirk? (intermediate)](https://youtu.be/w4GasVbjIbA)
 1. [when `git add .` doesn't work (intermediate)](https://youtu.be/N0TFxl7A5Hw)
 1. [I made every sentry page 300ms faster (intermediate)](https://youtu.be/FY7EQwT7QKU)
+1. [docker: don't mount files! (mount dirs instead) (intermediate)](https://youtu.be/oXfL0UCO9F4)
