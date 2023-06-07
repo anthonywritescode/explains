@@ -552,3 +552,4 @@ the full [playlist] is on youtube
 1. [docker: don't mount files! (mount dirs instead) (intermediate)](https://youtu.be/oXfL0UCO9F4)
 1. [you can't always trust argv\[0\] (intermediate)](https://youtu.be/qwpfSL-AcFQ)
 1. [shell: use this instead of `cd` (intermediate)](https://youtu.be/eF6qpdIY7Ko)
+1. [docker: secrets at build time! (intermediate)](https://youtu.be/aK6sJDOn2Hc)
