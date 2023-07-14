@@ -39,5 +39,5 @@ export LANG=C.UTF-8
 exit
 
 docker build -t test .
-docker run --rm -ti test bash -c 'echo $LANG'
+docker run --rm test bash -c 'echo $LANG'
 ```
