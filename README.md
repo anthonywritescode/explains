@@ -556,3 +556,4 @@ the full [playlist] is on youtube
 1. [every Dockerfile should have this line! (intermediate)](https://youtu.be/kL0q-7alfQA)
 1. [python's "soft" keywords (intermediate)](https://youtu.be/Rv3NYDOLpkM)
 1. [shell vs environment variables (and env, export, etc.) (intermediate)](https://youtu.be/h36Xc38SDHg)
+1. [python 3.12 release highlights (beginner - advanced)](https://youtu.be/IV8OZY4194U)
