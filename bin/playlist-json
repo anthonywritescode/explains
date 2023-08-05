@@ -1,0 +1,92 @@
+#!/usr/bin/env python3
+from __future__ import annotations
+
+import argparse
+import json
+import os
+import re
+import urllib.request
+from typing import Any
+
+WS_RE = re.compile(r'\s+')
+TRAILER_RE = re.compile(r' anthony explains #\d+$')
+
+PLAYLISTS = (
+    ('faq', 'PLWBKAf81pmOZEPeIV2_pIESK5hRMAo1hR'),
+    ('explains', 'PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY'),
+)
+
+
+def _fixup_title(s: str) -> str:
+    s = s.strip()
+    s = WS_RE.sub(' ', s)
+    # explains fixup
+    s = TRAILER_RE.sub('', s)
+    if s.endswith(' --'):  # special case the first video
+        s = s[:-1 * len(' --')]
+    # faq fixup
+    s = s.removeprefix('(stream faq) ').removesuffix(' (stream faq)')
+    return s
+
+
+def _video(video: dict[str, Any]) -> dict[str, str]:
+    video_id = video['snippet']['resourceId']['videoId']
+    title = _fixup_title(video['snippet']['title'])
+    return {'title': title, 'url': f'https://youtu.be/{video_id}'}
+
+
+def _videos(api_key: str, playlist_id: str) -> list[dict[str, Any]]:
+    url = 'https://www.googleapis.com/youtube/v3/playlistItems'
+    params = {
+        'part': 'snippet,status',
+        'playlistId': playlist_id,
+        'key': api_key,
+        'maxResults': 50,
+    }
+    videos = []
+    more_pages = True
+    while more_pages:
+        params_s = urllib.parse.urlencode(params)
+        response = json.load(urllib.request.urlopen(f'{url}?{params_s}'))
+        videos.extend(response['items'])
+        next_page_token = response.get('nextPageToken')
+        if next_page_token:
+            params['pageToken'] = next_page_token
+        else:
+            more_pages = False
+
+    return [
+        video for video in videos
+        if video['status']['privacyStatus'] == 'public'
+    ]
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser()
+    parser.add_argument('output')
+    args = parser.parse_args()
+
+    api_key = os.environ['YOUTUBE_API_KEY']
+
+    data = {
+        'playlists': [
+            {
+                'playlist_name': name,
+                'playlist_id': playlist,
+                'videos': [
+                    _video(video)
+                    for video in _videos(api_key, playlist)
+                ],
+            }
+            for name, playlist in PLAYLISTS
+        ],
+    }
+
+    with open(args.output, 'w') as f:
+        json.dump(data, f, separators=(',', ':'))
+
+    return 0
+
+
+if __name__ == '__main__':
+    raise SystemExit(main())
