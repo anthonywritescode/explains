@@ -557,3 +557,4 @@ the full [playlist] is on youtube
 1. [python's "soft" keywords (intermediate)](https://youtu.be/Rv3NYDOLpkM)
 1. [shell vs environment variables (and env, export, etc.) (intermediate)](https://youtu.be/h36Xc38SDHg)
 1. [python 3.12 release highlights (beginner - advanced)](https://youtu.be/IV8OZY4194U)
+1. [how does .exe magic work? (PATHEXT) (intermediate)](https://youtu.be/6QiLrVaG0qI)
