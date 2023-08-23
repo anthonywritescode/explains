@@ -559,3 +559,4 @@ the full [playlist] is on youtube
 1. [python 3.12 release highlights (beginner - advanced)](https://youtu.be/IV8OZY4194U)
 1. [how does .exe magic work? (PATHEXT) (intermediate)](https://youtu.be/6QiLrVaG0qI)
 1. [python is removing the GIL! (PEP 703) (advanced)](https://youtu.be/OC2gnyfmwL8)
+1. [tuple syntax doesn't have parens (beginner - intermediate) anthony explaines #551](https://youtu.be/EDGJ2TMuppM)
