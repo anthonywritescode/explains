@@ -2,8 +2,10 @@
 from __future__ import annotations
 
 import argparse
+import re
 import json
 
+REMOVE_NUMBERS = re.compile('(?: --)? #[0-9]+$')
 ESCAPE = {ord('\\'): r'\\', ord('_'): r'\_', ord('['): r'\[', ord(']'): r'\]'}
 
 
@@ -16,7 +18,8 @@ def _escape(s: str) -> str:
 
 
 def _video_link(video: dict[str, str]) -> str:
-    return f'[{_escape(video["title"])}]({video["url"]})'
+    title = _escape(REMOVE_NUMBERS.sub('', video['title']))
+    return f'[{title}]({video["url"]})'
 
 
 def main() -> int:
@@ -48,8 +51,9 @@ def main() -> int:
         f.write(f'[playlist]: {playlist_link}\n')
         f.write('\n')
 
-        for video in playlist['videos']:
-            f.write(f'- {_video_link(video)}\n')
+        f.write(f'0. {_video_link(playlist["videos"][0])}\n')
+        for video in playlist['videos'][1:]:
+            f.write(f'1. {_video_link(video)}\n')
 
     return 0
 
