@@ -48,9 +48,8 @@ def main() -> int:
         f.write(f'[playlist]: {playlist_link}\n')
         f.write('\n')
 
-        f.write(f'0. {_video_link(playlist["videos"][0])}\n')
-        for video in playlist['videos'][1:]:
-            f.write(f'1. {_video_link(video)}\n')
+        for video in playlist['videos']:
+            f.write(f'- {_video_link(video)}\n')
 
     return 0
 

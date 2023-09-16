@@ -9,7 +9,6 @@ import urllib.request
 from typing import Any
 
 WS_RE = re.compile(r'\s+')
-TRAILER_RE = re.compile(r' anthony explains #\d+$')
 
 PLAYLISTS = (
     ('faq', 'PLWBKAf81pmOZEPeIV2_pIESK5hRMAo1hR'),
@@ -21,9 +20,7 @@ def _fixup_title(s: str) -> str:
     s = s.strip()
     s = WS_RE.sub(' ', s)
     # explains fixup
-    s = TRAILER_RE.sub('', s)
-    if s.endswith(' --'):  # special case the first video
-        s = s[:-1 * len(' --')]
+    s = s.replace(' anthony explains', '')
     # faq fixup
     s = s.removeprefix('(stream faq) ').removesuffix(' (stream faq)')
     return s
