@@ -1,24 +1,13 @@
 #!/usr/bin/env python3
+from __future__ import annotations
+
 import argparse
 import json
-import os
-import re
-import urllib.request
-from typing import Any
-from typing import Dict
 
-WS_RE = re.compile(r'\s+')
-TRAILER_RE = re.compile(r' anthony explains #\d+$')
 ESCAPE = {ord('\\'): r'\\', ord('_'): r'\_', ord('['): r'\[', ord(']'): r'\]'}
 
 
-def _fixup_title(s: str) -> str:
-    s = WS_RE.sub(' ', s)
-    s = TRAILER_RE.sub('', s)
-    # special case the first video
-    if s.endswith(' --'):
-        s = s[:-1 * len(' --')]
-
+def _escape(s: str) -> str:
     return ''.join(
         # leave text alone inside `backticks`
         part.translate(ESCAPE) if i % 2 == 0 else f'`{part}`'
@@ -26,43 +15,25 @@ def _fixup_title(s: str) -> str:
     )
 
 
-def _video_link(video: Dict[str, Any]) -> str:
-    video_id = video['snippet']['resourceId']['videoId']
-    title = _fixup_title(video['snippet']['title'])
-    return f'[{title}](https://youtu.be/{video_id})'
+def _video_link(video: dict[str, str]) -> str:
+    return f'[{_escape(video["title"])}]({video["url"]})'
 
 
 def main() -> int:
     parser = argparse.ArgumentParser()
+    parser.add_argument('input_json')
     parser.add_argument('output')
     args = parser.parse_args()
 
-    playlist_id = os.environ['YOUTUBE_PLAYLIST_ID']
-    api_key = os.environ['YOUTUBE_API_KEY']
+    with open(args.input_json) as f:
+        contents = json.load(f)
 
-    url = 'https://www.googleapis.com/youtube/v3/playlistItems'
-    params = {
-        'part': 'snippet,status',
-        'playlistId': playlist_id,
-        'key': api_key,
-        'maxResults': 50,
-    }
-    videos = []
-    more_pages = True
-    while more_pages:
-        params_s = urllib.parse.urlencode(params)
-        response = json.load(urllib.request.urlopen(f'{url}?{params_s}'))
-        videos.extend(response['items'])
-        next_page_token = response.get('nextPageToken')
-        if next_page_token:
-            params['pageToken'] = next_page_token
-        else:
-            more_pages = False
-
-    videos = [
-        video for video in videos
-        if video['status']['privacyStatus'] == 'public'
+    playlist, = [
+        playlist
+        for playlist in contents['playlists']
+        if playlist['playlist_name'] == 'explains'
     ]
+    playlist_id = playlist['playlist_id']
 
     with open(args.output, 'w') as f:
         f.write('explains\n')
@@ -77,8 +48,8 @@ def main() -> int:
         f.write(f'[playlist]: {playlist_link}\n')
         f.write('\n')
 
-        f.write(f'0. {_video_link(videos[0])}\n')
-        for video in videos[1:]:
+        f.write(f'0. {_video_link(playlist["videos"][0])}\n')
+        for video in playlist['videos'][1:]:
             f.write(f'1. {_video_link(video)}\n')
 
     return 0

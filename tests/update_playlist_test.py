@@ -13,31 +13,16 @@ loader.exec_module(mod)
     ('s', 'expected'),
     (
         pytest.param(
-            'foo (beginner) anthony explains #123',
-            'foo (beginner)',
-            id='remove playlist name and number',
-        ),
-        pytest.param(
-            'foo [special] (beginner) anthony explains #123',
+            'foo [special] (beginner)',
             r'foo \[special\] (beginner)',
             id='escape special markdown characters',
         ),
         pytest.param(
-            'foo  bar (beginner) anthony explains #123',
-            'foo bar (beginner)',
-            id='collapse repeated whitespace',
-        ),
-        pytest.param(
-            'introducing anthony explains -- anthony explains #000',
-            'introducing anthony explains',
-            id='special case for first episode',
-        ),
-        pytest.param(
-            'something `__main__` `[]` (intermediate) anthony explains #5',
+            'something `__main__` `[]` (intermediate)',
             'something `__main__` `[]` (intermediate)',
             id='leave special characters alone inside backticks',
         ),
     ),
 )
-def test_fixup_title(s, expected):
-    assert mod._fixup_title(s) == expected
+def test_escape(s, expected):
+    assert mod._escape(s) == expected

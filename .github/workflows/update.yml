@@ -14,17 +14,6 @@ jobs:
     - uses: actions/setup-python@v4
       with:
         python-version: '3.11'
-    - run: ./bin/update-playlist README.md
-      env:
-        YOUTUBE_PLAYLIST_ID: PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY
-        YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-    - run: |
-        if git diff --quiet; then
-          exit 0
-        fi
-        git -c user.name='Anthony Sottile' -c user.email=asottile@umich.edu commit -a -m 'update playlist'
-        git push origin HEAD
-
     - uses: actions/checkout@v3
       with:
         ref: gh-pages
@@ -40,3 +29,10 @@ jobs:
         git -c user.name='Anthony Sottile' -c user.email=asottile@umich.edu commit -a -m 'update playlist'
         git push origin HEAD
       working-directory: gh-pages
+    - run: ./bin/update-playlist gh-pages/playlists.json README.md
+    - run: |
+        if git diff --quiet; then
+          exit 0
+        fi
+        git -c user.name='Anthony Sottile' -c user.email=asottile@umich.edu commit -a -m 'update playlist'
+        git push origin HEAD
