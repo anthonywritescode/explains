@@ -6,7 +6,7 @@ import re
 import json
 
 REMOVE_NUMBERS = re.compile('(?: --)? #[0-9]+$')
-ESCAPE = {ord('\\'): r'\\', ord('_'): r'\_', ord('['): r'\[', ord(']'): r'\]'}
+ESCAPE = {ord(c): fr'\{c}' for c in r'\_[]*'}
 
 
 def _escape(s: str) -> str:
