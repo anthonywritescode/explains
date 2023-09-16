@@ -22,6 +22,11 @@ loader.exec_module(mod)
             'something `__main__` `[]` (intermediate)',
             id='leave special characters alone inside backticks',
         ),
+        pytest.param(
+            'python **ZERO**',
+            r'python \*\*ZERO\*\*',
+            id='escape stars as well!',
+        ),
     ),
 )
 def test_escape(s, expected):
