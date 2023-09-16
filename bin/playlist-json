@@ -8,6 +8,7 @@ import re
 import urllib.request
 from typing import Any
 
+EXPLAINS = re.compile(' anthony explains(?= #[0-9]+$)')
 WS_RE = re.compile(r'\s+')
 
 PLAYLISTS = (
@@ -20,7 +21,7 @@ def _fixup_title(s: str) -> str:
     s = s.strip()
     s = WS_RE.sub(' ', s)
     # explains fixup
-    s = s.replace(' anthony explains', '')
+    s = EXPLAINS.sub('', s)
     # faq fixup
     s = s.removeprefix('(stream faq) ').removesuffix(' (stream faq)')
     return s
