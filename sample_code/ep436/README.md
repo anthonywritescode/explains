@@ -1,4 +1,4 @@
-# [a git workflow for *only my branches* (intermediate)](https://youtu.be/GKBq5Xo_B6I)
+# [a git workflow for \*only my branches\* (intermediate)](https://youtu.be/GKBq5Xo_B6I)
 
 Today I show off a git workflow I use when I'm working on a repository with hundreds or thousands of other branches (such as at work!)
 

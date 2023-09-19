@@ -1,4 +1,4 @@
-# [python: what are *splat **args? (intermediate)](https://youtu.be/VhDMj5ffGSc)
+# [python: what are \*splat \*\*args? (intermediate)](https://youtu.be/VhDMj5ffGSc)
 
 Today I talk about the two splat / spread operators in python!
 

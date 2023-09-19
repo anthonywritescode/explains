@@ -1,4 +1,4 @@
-# [python: typing *args / **kwargs (intermediate)](https://youtu.be/CqafM-bsnW0)
+# [python: typing \*args / \*\*kwargs (intermediate)](https://youtu.be/CqafM-bsnW0)
 
 Today I talk about typing the two types of starargs and why it's tricky / impossible to get correct
 

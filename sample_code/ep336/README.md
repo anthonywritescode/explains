@@ -1,4 +1,4 @@
-# [porting code to python **ZERO** (intermediate - advanced)](https://youtu.be/6vdg91-hPGY)
+# [porting code to python \*\*ZERO\*\* (intermediate - advanced)](https://youtu.be/6vdg91-hPGY)
 
 Today we do a bit of time travelling to look at the very first release of python!  it's surprisingly similar and actually not too difficult to write a single-source script which works in every version from python 0.9.1 to python 3.11!
 

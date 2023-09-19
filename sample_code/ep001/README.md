@@ -1,4 +1,4 @@
-# [python cli tested with pytest - (beginner to intermediate)](https://youtu.be/qvkppppy9K8)
+# [python cli tested with pytest - (beginner to intermediate)](https://youtu.be/sv46294LoP8)
 
 I build out a simple skeleton for a command line interface in python and show how to test it with pytest!
 

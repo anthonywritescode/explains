@@ -1,4 +1,4 @@
-# [python warnings (beginner - intermediate) explains #320](https://youtu.be/tZSEZ2WG5w8)
+# [python warnings (beginner - intermediate)](https://youtu.be/tZSEZ2WG5w8)
 
 Today I talk about the warnings module and the argument you *absolutely* need whenever you raise a warning (as well as how to turn them into errors and/or silence them!)
 
