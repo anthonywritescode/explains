@@ -562,3 +562,4 @@ the full [playlist] is on youtube
 1. [tuple syntax doesn't have parens (beginner - intermediate)](https://youtu.be/EDGJ2TMuppM)
 1. [what is `Symbol` in js (intermediate)](https://youtu.be/gZBQ8LIR6D4)
 1. [debugging a sentry test pollution! (intermediate)](https://youtu.be/YEIeKdBmuUY)
+1. [stopping xargs early (intermediate)](https://youtu.be/-J36ki4rU_Q)
