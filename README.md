@@ -564,3 +564,4 @@ the full [playlist] is on youtube
 1. [debugging a sentry test pollution! (intermediate)](https://youtu.be/YEIeKdBmuUY)
 1. [stopping xargs early (intermediate)](https://youtu.be/-J36ki4rU_Q)
 1. [docker: connecting to localhost outside the container (intermediate)](https://youtu.be/NZGu-9KQVsE)
+1. [the system design interview (intermediate - advanced)](https://youtu.be/SNyDKw4DFPQ)
