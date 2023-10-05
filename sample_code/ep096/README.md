@@ -1,4 +1,4 @@
-# [typing: what is Type[X]? (intermediate)](https://youtu.be/_7EXU9cjBkg)
+# [typing: what is Type\[X\]? (intermediate)](https://youtu.be/_7EXU9cjBkg)
 
 Today I talk more about type annotations and the difference between : X and : Type[X]!
 

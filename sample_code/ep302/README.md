@@ -1,4 +1,4 @@
-# [bash: strings with `!` / !... event not found (beginner - intermediate) anthony explains](https://youtu.be/VkRjT3UBiLk)
+# [bash: strings with `!` / !... event not found (beginner - intermediate)](https://youtu.be/VkRjT3UBiLk)
 
 Today I talk about how to use strings with `!` in them as well as the differences between hard quotes and soft quotes!
 

@@ -1,4 +1,4 @@
-# [assert\_never / assert\_type **CORRECTION** (intermediate)](https://youtu.be/jN_a02Rj8Gg)
+# [assert\_never / assert\_type \*\*CORRECTION\*\* (intermediate)](https://youtu.be/jN_a02Rj8Gg)
 
 I goofed in my explanation of `assert_never` during the 3.11 video -- this corrects my mistakes!
 

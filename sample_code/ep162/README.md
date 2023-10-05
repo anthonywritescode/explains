@@ -1,4 +1,4 @@
-# [python: os.exec* vs subprocess (intermediate)](https://youtu.be/xTiPODNalrU)
+# [python: os.exec\* vs subprocess (intermediate)](https://youtu.be/xTiPODNalrU)
 
 Today I talk about the difference between the os.exec* functions (execvp, execvpe, etc.) and the subprocess functions and why I use a particular one and why exec is HORRIBLY BROKEN on windows
 

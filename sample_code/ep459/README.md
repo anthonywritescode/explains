@@ -1,4 +1,4 @@
-# [safely stealing github secrets with crypto (intermediate)](https://youtu.be/qjnEZ-3uYjc)
+# [safely stealing github secrets with cryptography (intermediate)](https://youtu.be/qjnEZ-3uYjc)
 
 Today I show a hackerman workflow for retrieving lost secrets from github actions by utilizing public-key cryptography!
 

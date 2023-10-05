@@ -1,4 +1,4 @@
-# [what is the "unraisable" hook (intermediate)](https://youtu.be/G4Lya0KVG1E?)
+# [what is the "unraisable" hook (intermediate)](https://youtu.be/G4Lya0KVG1E)
 
 In today's video I talk about the unraisable hook, a new addition in python 3.8 and how you can use it with pytest!
 
