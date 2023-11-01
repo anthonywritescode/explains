@@ -568,3 +568,4 @@ the full [playlist] is on youtube
 1. [don't delete from pypi! (yank instead) (intermediate)](https://youtu.be/lUFA_WklFII)
 1. [git: --first-parent (intermediate)](https://youtu.be/nsSj7snqODM)
 1. [I don't use backslashes (with one exception) (beginner - intermediate)](https://youtu.be/Y_gfBcjS5EY)
+1. [what is a BOM (byte-order-marker) (intermediate)](https://youtu.be/OrtNMystCgM)
