@@ -570,3 +570,4 @@ the full [playlist] is on youtube
 1. [I don't use backslashes (with one exception) (beginner - intermediate)](https://youtu.be/Y_gfBcjS5EY)
 1. [what is a BOM (byte-order-marker) (intermediate)](https://youtu.be/OrtNMystCgM)
 1. [NEW generic / alias syntax for python 3.12 (PEP 695) (intermediate)](https://youtu.be/YaDYUQ5mD5Q)
+1. [new 3.12 f-strings syntax! (intermediate)](https://youtu.be/BkexKFfrAeo)
