@@ -572,3 +572,4 @@ the full [playlist] is on youtube
 1. [NEW generic / alias syntax for python 3.12 (PEP 695) (intermediate)](https://youtu.be/YaDYUQ5mD5Q)
 1. [new 3.12 f-strings syntax! (intermediate)](https://youtu.be/BkexKFfrAeo)
 1. [pesky reDOS and python 3.11 (intermediate)](https://youtu.be/ECbls57_3jE)
+1. [prefer tuples to lists! (intermediate)](https://youtu.be/8nvfOjvOF5w)
