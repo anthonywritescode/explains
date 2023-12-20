@@ -573,3 +573,4 @@ the full [playlist] is on youtube
 1. [new 3.12 f-strings syntax! (intermediate)](https://youtu.be/BkexKFfrAeo)
 1. [pesky reDOS and python 3.11 (intermediate)](https://youtu.be/ECbls57_3jE)
 1. [prefer tuples to lists! (intermediate)](https://youtu.be/8nvfOjvOF5w)
+1. [git: inline diffs with --word-diff! (intermediate)](https://youtu.be/Wn3bJUzvy5I)
