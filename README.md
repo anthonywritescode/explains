@@ -575,3 +575,4 @@ the full [playlist] is on youtube
 1. [prefer tuples to lists! (intermediate)](https://youtu.be/8nvfOjvOF5w)
 1. [git: inline diffs with --word-diff! (intermediate)](https://youtu.be/Wn3bJUzvy5I)
 1. [ONE TERABYTE of RAM saved with a single line of code (advanced)](https://youtu.be/Hgw_RlCaIds)
+1. [using memray to debug (and fix) a memory leak in krb5! (advanced)](https://youtu.be/bw5AHdZA7e4)
