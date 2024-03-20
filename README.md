@@ -577,3 +577,4 @@ the full [playlist] is on youtube
 1. [ONE TERABYTE of RAM saved with a single line of code (advanced)](https://youtu.be/Hgw_RlCaIds)
 1. [using memray to debug (and fix) a memory leak in krb5! (advanced)](https://youtu.be/bw5AHdZA7e4)
 1. [py-spy saved our python 3.11 rollout (intermediate)](https://youtu.be/p8s2fzqA07s)
+1. [using git bisect to find a bug in nodejs (intermediate)](https://youtu.be/cSd5GGrj2VA)
