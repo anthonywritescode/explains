@@ -578,3 +578,4 @@ the full [playlist] is on youtube
 1. [using memray to debug (and fix) a memory leak in krb5! (advanced)](https://youtu.be/bw5AHdZA7e4)
 1. [py-spy saved our python 3.11 rollout (intermediate)](https://youtu.be/p8s2fzqA07s)
 1. [using git bisect to find a bug in nodejs (intermediate)](https://youtu.be/cSd5GGrj2VA)
+1. [am I vulnerable to black's CVE? (2024-21503) (intermediate)](https://youtu.be/2P20wZGsdJQ)
