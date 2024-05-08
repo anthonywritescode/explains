@@ -580,3 +580,4 @@ the full [playlist] is on youtube
 1. [using git bisect to find a bug in nodejs (intermediate)](https://youtu.be/cSd5GGrj2VA)
 1. [am I vulnerable to black's CVE? (2024-21503) (intermediate)](https://youtu.be/2P20wZGsdJQ)
 1. [training a custom object detection model from scratch (yolov8) (intermediate)](https://youtu.be/ZG38vpkSHlM)
+1. [adding test == others fail??? (intermediate)](https://youtu.be/BoZDpQnA-Xw)
