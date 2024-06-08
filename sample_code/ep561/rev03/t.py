@@ -6,7 +6,7 @@ type NumberTypes2 = int | float | D
 type MyList[T] = list[T]
 
 
-def g(q: MyList[int]) -> None:...
+def g(q: MyList[int]) -> None: ...
 
 
 def f[T](x: T) -> T:
