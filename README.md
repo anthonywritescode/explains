@@ -582,3 +582,4 @@ the full [playlist] is on youtube
 1. [training a custom object detection model from scratch (yolov8) (intermediate)](https://youtu.be/ZG38vpkSHlM)
 1. [adding test == others fail??? (intermediate)](https://youtu.be/BoZDpQnA-Xw)
 1. [typing decorators sucks! here's an easier way (intermediate)](https://youtu.be/_QXlbwRmqgI)
+1. [typing the untype-able with mypy plugins (advanced)](https://youtu.be/tH3Nul6jDQM)
