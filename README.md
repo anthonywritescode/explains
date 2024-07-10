@@ -584,3 +584,4 @@ the full [playlist] is on youtube
 1. [typing decorators sucks! here's an easier way (intermediate)](https://youtu.be/_QXlbwRmqgI)
 1. [typing the untype-able with mypy plugins (advanced)](https://youtu.be/tH3Nul6jDQM)
 1. [`x: float = False` is a valid annotation??? (intermediate)](https://youtu.be/RYD87EL1Zbs)
+1. [PEP 696 is a huge quality-of-life improvement (intermediate)](https://youtu.be/NC3Bv104SQM)
