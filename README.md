@@ -587,3 +587,4 @@ the full [playlist] is on youtube
 1. [PEP 696 is a huge quality-of-life improvement (intermediate)](https://youtu.be/NC3Bv104SQM)
 1. [how do I make an empty generator? (intermediate)](https://youtu.be/b0mUqJc4a2g)
 1. [faster git recloning\* (intermediate)](https://youtu.be/rLHNAiLv7r0)
+1. [oops I'm the pyuwsgi maintainer now (intermediate)](https://youtu.be/WILYaDNez4g)
