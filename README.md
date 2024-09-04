@@ -588,3 +588,4 @@ the full [playlist] is on youtube
 1. [how do I make an empty generator? (intermediate)](https://youtu.be/b0mUqJc4a2g)
 1. [faster git recloning\* (intermediate)](https://youtu.be/rLHNAiLv7r0)
 1. [oops I'm the pyuwsgi maintainer now (intermediate)](https://youtu.be/WILYaDNez4g)
+1. [debugging and fixing pyuwsgi in python 3.12 (advanced)](https://youtu.be/Y4n2xCIF2Jg)
