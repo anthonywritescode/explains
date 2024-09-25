@@ -591,3 +591,4 @@ the full [playlist] is on youtube
 1. [debugging and fixing pyuwsgi in python 3.12 (advanced)](https://youtu.be/Y4n2xCIF2Jg)
 1. [python 3.13 release highlights](https://youtu.be/gqqgwyNx52Q)
 1. [stop using manual cloud creds! (oidc)](https://youtu.be/YCGb7RP960E)
+1. [stop making giant changesets!](https://youtu.be/Gu6XrmfwivI)
