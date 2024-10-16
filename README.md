@@ -593,3 +593,4 @@ the full [playlist] is on youtube
 1. [stop using manual cloud creds! (oidc)](https://youtu.be/YCGb7RP960E)
 1. [stop making giant changesets!](https://youtu.be/Gu6XrmfwivI)
 1. [debugging flaky cascading failure after upgrading pytest!](https://youtu.be/zyZXdvJgGPM)
+1. [how does python's module `__getattr__` actually work?](https://youtu.be/K1-wYUSQoF8)
