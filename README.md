@@ -595,3 +595,4 @@ the full [playlist] is on youtube
 1. [debugging flaky cascading failure after upgrading pytest!](https://youtu.be/zyZXdvJgGPM)
 1. [how does python's module `__getattr__` actually work?](https://youtu.be/K1-wYUSQoF8)
 1. [python warnings got way better in 3.12!](https://youtu.be/Ljfn4x8t3Ow)
+1. [supercharging coverage with sys.monitoring (PEP 669)](https://youtu.be/_JwwSVPg9RI)
