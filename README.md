@@ -597,3 +597,4 @@ the full [playlist] is on youtube
 1. [python warnings got way better in 3.12!](https://youtu.be/Ljfn4x8t3Ow)
 1. [supercharging coverage with sys.monitoring (PEP 669)](https://youtu.be/_JwwSVPg9RI)
 1. [debugging a broken cache!](https://youtu.be/bhUk7Vog108)
+1. [why don't signals work in docker?](https://youtu.be/0pQxONR73f8)
