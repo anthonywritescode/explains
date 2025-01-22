@@ -599,3 +599,4 @@ the full [playlist] is on youtube
 1. [debugging a broken cache!](https://youtu.be/bhUk7Vog108)
 1. [why don't signals work in docker?](https://youtu.be/0pQxONR73f8)
 1. [your tests should have 100% coverage](https://youtu.be/70T6OxKwxm0)
+1. [unconventional uses of dumb-init](https://youtu.be/thqnRzzXZvQ)
