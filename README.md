@@ -601,3 +601,4 @@ the full [playlist] is on youtube
 1. [your tests should have 100% coverage](https://youtu.be/70T6OxKwxm0)
 1. [unconventional uses of dumb-init](https://youtu.be/thqnRzzXZvQ)
 1. [I deleted all my go projects.](https://youtu.be/xuv9A7CJF54)
+1. [python is too slow...](https://youtu.be/FFoeU3t-N4c)
