@@ -603,3 +603,4 @@ the full [playlist] is on youtube
 1. [I deleted all my go projects.](https://youtu.be/xuv9A7CJF54)
 1. [python is too slow...](https://youtu.be/FFoeU3t-N4c)
 1. [how can an identical docker image produce different results?](https://youtu.be/CBbgmRAg0VM)
+1. [python now has dict unpacking?](https://youtu.be/eqiM0xRmFJg)
