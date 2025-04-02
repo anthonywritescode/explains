@@ -604,3 +604,4 @@ the full [playlist] is on youtube
 1. [python is too slow...](https://youtu.be/FFoeU3t-N4c)
 1. [how can an identical docker image produce different results?](https://youtu.be/CBbgmRAg0VM)
 1. [python now has dict unpacking?](https://youtu.be/eqiM0xRmFJg)
+1. [the python readline module is haunted](https://youtu.be/b0JQkTWjg6g)
