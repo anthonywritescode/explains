@@ -607,3 +607,4 @@ the full [playlist] is on youtube
 1. [the python readline module is haunted](https://youtu.be/b0JQkTWjg6g)
 1. [why did this suddenly OOM?](https://youtu.be/xEfDMjogJnw)
 1. [automatic python types!](https://youtu.be/YTDpiP1-PRg)
+1. [python t-strings (PEP 750)](https://youtu.be/_QYAoNCK574)
