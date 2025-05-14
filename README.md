@@ -608,3 +608,4 @@ the full [playlist] is on youtube
 1. [why did this suddenly OOM?](https://youtu.be/xEfDMjogJnw)
 1. [automatic python types!](https://youtu.be/YTDpiP1-PRg)
 1. [python t-strings (PEP 750)](https://youtu.be/_QYAoNCK574)
+1. [3 way test pollution!](https://youtu.be/qbLhVVRSb14)
