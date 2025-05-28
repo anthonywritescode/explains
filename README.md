@@ -610,3 +610,4 @@ the full [playlist] is on youtube
 1. [python t-strings (PEP 750)](https://youtu.be/_QYAoNCK574)
 1. [3 way test pollution!](https://youtu.be/qbLhVVRSb14)
 1. [some weird django test database quirks](https://youtu.be/cyZ2fWVdxwE)
+1. [python 3.14 highlights!](https://youtu.be/-Z-BDux-TRk)
