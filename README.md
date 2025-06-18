@@ -611,3 +611,4 @@ the full [playlist] is on youtube
 1. [3 way test pollution!](https://youtu.be/qbLhVVRSb14)
 1. [some weird django test database quirks](https://youtu.be/cyZ2fWVdxwE)
 1. [python 3.14 highlights!](https://youtu.be/-Z-BDux-TRk)
+1. [python 3.14 gets tail call (it's not what you think)](https://youtu.be/WlJGa_qzvA4)
