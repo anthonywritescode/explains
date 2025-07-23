@@ -614,3 +614,4 @@ the full [playlist] is on youtube
 1. [python 3.14 gets tail call (it's not what you think)](https://youtu.be/WlJGa_qzvA4)
 1. [coverage doesn't work on a mypy plugin?](https://youtu.be/PlpwPfCfLus)
 1. [what is LiteralString in python ?](https://youtu.be/LaP_ogokB5E)
+1. [what is "shift left" ?](https://youtu.be/g9cE71np09g)
