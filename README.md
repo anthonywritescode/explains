@@ -615,3 +615,4 @@ the full [playlist] is on youtube
 1. [coverage doesn't work on a mypy plugin?](https://youtu.be/PlpwPfCfLus)
 1. [what is LiteralString in python ?](https://youtu.be/LaP_ogokB5E)
 1. [what is "shift left" ?](https://youtu.be/g9cE71np09g)
+1. [why doesn't Self work here?](https://youtu.be/kiAY-kbrkRw)
