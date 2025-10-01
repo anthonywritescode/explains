@@ -619,3 +619,4 @@ the full [playlist] is on youtube
 1. [python: the assret incident](https://youtu.be/vLra6vLMzY4)
 1. [calling open breaks this module?](https://youtu.be/qfv83iTplfw)
 1. [typeshed is (often) better than the python docs](https://youtu.be/Vj8ukwPyVMg)
+1. [employee stock compensation](https://youtu.be/B5zAjCAvnfg)
