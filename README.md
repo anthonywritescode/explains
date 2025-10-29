@@ -621,3 +621,4 @@ the full [playlist] is on youtube
 1. [typeshed is (often) better than the python docs](https://youtu.be/Vj8ukwPyVMg)
 1. [employee stock compensation](https://youtu.be/B5zAjCAvnfg)
 1. [I hate CLAs](https://youtu.be/YDWcz-vSKHg)
+1. [how pre-commit.ci (and my video) will speed up black for everyone?](https://youtu.be/yDJeKP_gNs8)
