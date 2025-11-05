@@ -622,3 +622,4 @@ the full [playlist] is on youtube
 1. [employee stock compensation](https://youtu.be/B5zAjCAvnfg)
 1. [I hate CLAs](https://youtu.be/YDWcz-vSKHg)
 1. [how pre-commit.ci (and my video) will speed up black for everyone?](https://youtu.be/yDJeKP_gNs8)
+1. [my (bad) distributed system for sentry mypy stats (and cool graphs from viewers!)](https://youtu.be/ZwGDqjx-W2k)
