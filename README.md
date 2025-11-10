@@ -394,7 +394,7 @@ the full [playlist] is on youtube
 1. [github: give people credit! (beginner - intermediate)](https://youtu.be/_-qNX8EbVYI)
 1. [dropping old python versions (intermediate)](https://youtu.be/Oun5kXqENMk)
 1. [useful interview data structures: heapq (intermediate)](https://youtu.be/sRLuocdQfEw)
-1. [decorator typing (PEP 612) (intermediate - advanced)](https://youtu.be/fwZoxWyMGM8)
+1. [decorator typing (PEP 612 / ParamSpec)](https://youtu.be/fwZoxWyMGM8)
 1. [python: what is 0-arg raise? (beginner)](https://youtu.be/yj4z1N3_0sw)
 1. [time vs. /bin/time (beginner - intermediate)](https://youtu.be/hJ5LT4AGf3Y)
 1. [what is an open redirect vulnerability? (intermediate)](https://youtu.be/ziGvS7XLWDU)
