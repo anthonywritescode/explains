@@ -624,3 +624,4 @@ the full [playlist] is on youtube
 1. [how pre-commit.ci (and my video) will speed up black for everyone?](https://youtu.be/yDJeKP_gNs8)
 1. [my (bad) distributed system for sentry mypy stats (and cool graphs from viewers!)](https://youtu.be/ZwGDqjx-W2k)
 1. [sudo --validate](https://youtu.be/pF70DVY4zKQ)
+1. ["git is forever"](https://youtu.be/krjqA-oBgxI)
