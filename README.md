@@ -625,3 +625,4 @@ the full [playlist] is on youtube
 1. [my (bad) distributed system for sentry mypy stats (and cool graphs from viewers!)](https://youtu.be/ZwGDqjx-W2k)
 1. [sudo --validate](https://youtu.be/pF70DVY4zKQ)
 1. ["git is forever"](https://youtu.be/krjqA-oBgxI)
+1. [git is not a series of patches!](https://youtu.be/LI6Zzl787KU)
