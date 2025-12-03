@@ -626,3 +626,4 @@ the full [playlist] is on youtube
 1. [sudo --validate](https://youtu.be/pF70DVY4zKQ)
 1. ["git is forever"](https://youtu.be/krjqA-oBgxI)
 1. [git is not a series of patches!](https://youtu.be/LI6Zzl787KU)
+1. [squash merge: I hate it but it's really the only way](https://youtu.be/5_8FTivl8Vs)
