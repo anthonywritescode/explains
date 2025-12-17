@@ -628,3 +628,4 @@ the full [playlist] is on youtube
 1. [git is not a series of patches!](https://youtu.be/LI6Zzl787KU)
 1. [squash merge: I hate it but it's really the only way](https://youtu.be/5_8FTivl8Vs)
 1. [sqlite: STRING is actually an integer type???](https://youtu.be/VSiPVZcTQTo)
+1. [linus messed up the linux git history (so now there's a new git option)](https://youtu.be/Drz8PgWSR4Y)
