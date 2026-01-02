@@ -55,6 +55,6 @@ git bisect good v17.0.0
 
 echo $CC
 
-chmod +x ../repro/{bisect,repro}.sh
+chmod +x ../repro/{bisect,repro2}.sh
 git bisect run ../repro/bisect.sh
 ```
