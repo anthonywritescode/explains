@@ -630,3 +630,4 @@ the full [playlist] is on youtube
 1. [sqlite: STRING is actually an integer type???](https://youtu.be/VSiPVZcTQTo)
 1. [linus messed up the linux git history (so now there's a new git option)](https://youtu.be/Drz8PgWSR4Y)
 1. [splitting a monorepo with git filter-branch / filter-repo](https://youtu.be/kBMTLIWkYVQ)
+1. [making the "slurp" video](https://youtu.be/UhRzwSCiZm4)
