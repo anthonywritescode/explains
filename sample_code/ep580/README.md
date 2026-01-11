@@ -45,9 +45,10 @@ bash t.sh
 
 git -C ../../uwsgi diff -- core/
 git -C ../../uwsgi diff -- core/ | git apply
+cd ../../
 
 ./venv/bin/pip uninstall pyuwsgi
-./venv/bin/pip install ./pyuwsgi-wheels/uwsgi
+./venv/bin/pip install ./pyuwsgi-wheels/uwsgi/
 
 nano pyuwsgi-wheels/uwsgi/plugins/pyuwsgi/pyuwsgi.c
 ```

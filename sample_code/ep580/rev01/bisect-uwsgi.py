@@ -1,14 +1,14 @@
 from __future__ import annotations
 import contextlib
 import os.path
-# import shlex
+import shlex
 import subprocess
 import urllib.request
 import sys
 import time
-from typing import Generator
-# from typing import IO
 import psutil
+
+from typing import Generator, IO
 
 
 rev = subprocess.check_output(('git', 'rev-parse', 'HEAD'), text=True).strip()
@@ -17,14 +17,32 @@ prefix = os.path.abspath('../prefix')
 venv = os.path.abspath('../venv')
 logs = os.path.abspath('../logs')
 uwsgi_src = os.path.abspath('../pyuwsgi-wheels/uwsgi')
+os.makedirs(logs, exist_ok=True)
 
 
-def tee() -> None:
-    ...
+def tee(s: str, *files: IO[str]) -> None:
+    for f in files:
+        print(s, file=f, flush=True)
 
 
-def _cmd_q() -> None:
-    ...
+def _cmd_q(
+        *cmd: str,
+        env: dict[str, str] | None = None,
+        cwd: str | None = None,
+        exit: int = 125,
+) -> None:
+    with open(os.path.join(logs, rev), 'a+') as logfile:
+        tee(f'+ {shlex.join(cmd)}', logfile, sys.stderr)
+        ret = subprocess.call(
+            cmd,
+            env=env,
+            cwd=cwd,
+            stdout=logfile,
+            stderr=logfile,
+        )
+        if ret:
+            tee(f'=> failed with {ret}', logfile, sys.stderr)
+            raise SystemExit(exit)
 
 
 def _build_cpython() -> None:
