@@ -1,0 +1,12 @@
+venv=venv.uwsgi \
+UWSGI_MASTER=true \
+UWSGI_BINARY_PATH=$PWD/$venv/bin/python3 \
+UWSGI_VIRTUALENV=$PWD/$venv \
+UWSGI_WORKERS=1 \
+UWSGI_ENABLE_THREADS=true \
+UWSGI_MAX_REQUESTS=5 \
+UWSGI_SINGLE_INTERPRETER=true \
+UWSGI_HTTP_SOCKET=localhost:9001 \
+UWSGI_WSGI_FILE=wsgi.py \
+UWSGI_DISABLE_LOGGING=1 \
+    "$venv/bin/uwsgi" "$@"
