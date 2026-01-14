@@ -41,7 +41,7 @@ git fetch
 git for-each-ref | awk '{print $3}' | grep -Ev "^(refs/heads/|refs/tags|refs/remotes/origin/(HEAD$|master$|${USER}-))" | xargs --no-run-if-empty -n1 git update-ref -d
 git fetch
 
-git fetch origin <branch>
-git checkout FETCH_HEAD -b <branch>
+git fetch origin <branch_name>
+git checkout FETCH_HEAD -b <branch_name>
 git log
 ```
