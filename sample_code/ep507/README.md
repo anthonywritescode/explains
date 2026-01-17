@@ -12,9 +12,9 @@ cd astpretty/
 
 git checkout origin/main -b wat
 nano README.md
-# echo 'hello hello wolrd' >> README.md
+# echo 'hello hello world' >> README.md
 
-git commit -m 'hello hello wolrd'
+git commit -m 'hello hello world'
 git push origin HEAD
 
 cd ..
@@ -34,7 +34,7 @@ cd astpretty/
 
 git checkout origin/main -b wat
 nano README.md
-# echo 'hello hello wolrd' >> README.md
+# echo 'hello hello world' >> README.md
 
 git push origin HEAD
 ```
