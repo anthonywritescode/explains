@@ -25,7 +25,7 @@ git commit --allow-empty -m 'some commit message 2'
 git show --format='%ce'
 git push origin HEAD
 
-echo 'hello wolrd' > t
+echo 'hello world' > t
 git add t
 git commit -m 'add t'
 git push origin HEAD

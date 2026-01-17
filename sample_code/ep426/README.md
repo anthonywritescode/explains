@@ -8,8 +8,8 @@ I show the small number of rules to bash quoting and why '"'"' shouldn't be that
 
 ```python
 import shlex
-print(shlex.quote("hello ' wolrd"))
-print(shlex.quote(shlex.quote("hello ' wolrd")))
+print(shlex.quote("hello ' world"))
+print(shlex.quote(shlex.quote("hello ' world")))
 ```
 
 ### Bash
@@ -28,10 +28,10 @@ echo "hello !! world"
 echo 'hello " world'
 echo "hello ' world"
 
-echo 'hello ' "hello wolrd"
+echo 'hello ' "hello world"
 
-echo 'hello '"hello wolrd"
-echo 'hello ''hello wolrd'
+echo 'hello '"hello world"
+echo 'hello ''hello world'
 
 echo 'hello ' "'" ' world'
 echo 'hello '"'"' world'
@@ -40,8 +40,8 @@ echo 'hello '\'' world'
 
 echo "hello "'"'" world"
 
-echo ''"'"'hello '"'"'"'"'"'"'"'"' wolrd'"'"''
-echo "'"'hello '"'"'"'"'"'"'"'"' wolrd'"'"
+echo ''"'"'hello '"'"'"'"'"'"'"'"' world'"'"''
+echo "'"'hello '"'"'"'"'"'"'"'"' world'"'"
 
 echo `echo hi`
 

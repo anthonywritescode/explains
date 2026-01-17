@@ -17,7 +17,7 @@ s.translate(table).translate(table)
 
 import string
 table_upper = str.maketrans(string.ascii_lowercase, string.ascii_uppercase)
-'hello hello wolrd'.translate(table_upper)
+'hello hello world'.translate(table_upper)
 
 table_upper = str.maketrans(string.ascii_lowercase, string.ascii_uppercase, string.punctuation)
 'hello!  hello!  world!'.translate(table_upper)
