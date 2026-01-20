@@ -56,5 +56,5 @@ rm etc/hosts etc/hostname etc/resolv.conf
 ls
 
 find -maxdepth 1 -type d
-find -maxdepth 1 -type d | xargs --replace podman cp {} <container_hostname_hash>:/{}
+find -maxdepth 1 -type d | xargs --replace podman cp {} <container_hostname>:/{}
 ```
