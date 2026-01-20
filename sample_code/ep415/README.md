@@ -49,7 +49,7 @@ python t.py
 # Github keyboard shortcut cheatsheet: Shift-/ or Shift-?
 
 podman ps
-podman exec -ti <container_hash_id> bash
+podman exec -ti <container_id> bash
 ls
 ls /root/.ssh/authorized_keys
 exit
@@ -61,7 +61,7 @@ ps
 while true; do true; done
 # Enter-~-.
 
-podman exec -ti <container_hash_id> bash
+podman exec -ti <container_id> bash
 ps -ef
 exit
 
