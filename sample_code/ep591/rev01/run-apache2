@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+docker run --rm -ti --entrypoint dumb-init --name apache2-container -e TZ=UTC -p 8080:80 apache2 apache2-foreground
