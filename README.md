@@ -632,3 +632,4 @@ the full [playlist] is on youtube
 1. [splitting a monorepo with git filter-branch / filter-repo](https://youtu.be/kBMTLIWkYVQ)
 1. [making the "slurp" video](https://youtu.be/UhRzwSCiZm4)
 1. [the worst git repo (and how I fixed it)](https://youtu.be/Ia6S3cbCrNs)
+1. [you only need 15ish git commands](https://youtu.be/y6meVhckYmQ)
