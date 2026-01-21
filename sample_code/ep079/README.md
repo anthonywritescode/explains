@@ -35,7 +35,7 @@ virtualenv venv
 rm -rf ~/opt/venv/
 hash -r
 which virtualenv
-virtuaelnv venv
+virtualenv venv
 
 curl --location --output virtualenv.pyz https://bootstrap.pypa.io/virtualenv.pyz
 python virtualenv.pyz ~/opt/venv

@@ -7,7 +7,7 @@ Today I talk about typing the two types of starargs and why it's tricky / imposs
 ### Bash
 
 ```bash
-virtual venv
+virtualenv venv
 . venv/bin/activate
 pip install mypy
 
