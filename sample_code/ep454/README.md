@@ -4,7 +4,7 @@ Today we go over an annoying javascript quirk related to unicode -- surprise sur
 
 ## Interactive examples
 
-### Node
+### JavaScript
 
 ```javascript
 s = '🙃'

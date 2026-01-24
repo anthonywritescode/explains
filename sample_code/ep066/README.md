@@ -18,7 +18,7 @@ exit()
 
 ### Node
 
-```console
+```javascript
 process.exit()
 ```
 
