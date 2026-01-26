@@ -34,7 +34,7 @@ rm -f a
 sqlite3
 ```
 
-### Sqlite3
+### SQLite
 
 ```sql
 CREATE TABLE USERS (username, age);
