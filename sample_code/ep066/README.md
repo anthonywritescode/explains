@@ -10,7 +10,7 @@ Today I talk about one of the things I wish I knew sooner in my programming care
 exit()
 ```
 
-### Sqlite
+### SQLite
 
 ```console
 .quit
