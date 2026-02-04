@@ -634,3 +634,4 @@ the full [playlist] is on youtube
 1. [the worst git repo (and how I fixed it)](https://youtu.be/Ia6S3cbCrNs)
 1. [you only need 15ish git commands](https://youtu.be/y6meVhckYmQ)
 1. ["new" git commands for "old" people](https://youtu.be/10dQiNkCZGE)
+1. [a cpython release went backwards?](https://youtu.be/KyIUJFYmN-8)
