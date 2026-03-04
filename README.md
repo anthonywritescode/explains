@@ -635,3 +635,4 @@ the full [playlist] is on youtube
 1. [you only need 15ish git commands](https://youtu.be/y6meVhckYmQ)
 1. ["new" git commands for "old" people](https://youtu.be/10dQiNkCZGE)
 1. [a cpython release went backwards?](https://youtu.be/KyIUJFYmN-8)
+1. [why is there this weird semicolon ???](https://youtu.be/Ikke2Sg-nW4)
