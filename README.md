@@ -640,3 +640,4 @@ the full [playlist] is on youtube
 1. [annotated tags](https://youtu.be/GhWbJHdCkOA)
 1. [typing \*args and \*\*kwargs](https://youtu.be/2Uo3iD8lJh4)
 1. [does git 2.54 make pre-commit obsolete?](https://youtu.be/8Jwg_mM9WYc)
+1. [why aren't git hooks automatic on clone?](https://youtu.be/znuNevbWENE)
