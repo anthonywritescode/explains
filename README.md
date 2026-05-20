@@ -642,3 +642,4 @@ the full [playlist] is on youtube
 1. [does git 2.54 make pre-commit obsolete?](https://youtu.be/8Jwg_mM9WYc)
 1. [why aren't git hooks automatic on clone?](https://youtu.be/znuNevbWENE)
 1. [python 3.14 garbage collector \*REVERTED\*](https://youtu.be/tQ3hnQiJ0YM)
+1. [python lazy imports (PEP 810)](https://youtu.be/xnZ90CYYF-0)
