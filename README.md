@@ -643,3 +643,4 @@ the full [playlist] is on youtube
 1. [why aren't git hooks automatic on clone?](https://youtu.be/znuNevbWENE)
 1. [python 3.14 garbage collector \*REVERTED\*](https://youtu.be/tQ3hnQiJ0YM)
 1. [python lazy imports (PEP 810)](https://youtu.be/xnZ90CYYF-0)
+1. [/tmp vs. /var/tmp](https://youtu.be/IMTalL4OWzA)
