@@ -645,3 +645,4 @@ the full [playlist] is on youtube
 1. [python lazy imports (PEP 810)](https://youtu.be/xnZ90CYYF-0)
 1. [/tmp vs. /var/tmp](https://youtu.be/IMTalL4OWzA)
 1. [monkeypatching !](https://youtu.be/ZW0QaclnJKA)
+1. [mocking python's open() function](https://youtu.be/9N67FVSjbUs)
