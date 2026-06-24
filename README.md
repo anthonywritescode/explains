@@ -646,3 +646,4 @@ the full [playlist] is on youtube
 1. [/tmp vs. /var/tmp](https://youtu.be/IMTalL4OWzA)
 1. [monkeypatching !](https://youtu.be/ZW0QaclnJKA)
 1. [mocking python's open() function](https://youtu.be/9N67FVSjbUs)
+1. [lazy imports will not be backported ... UNLESS ?](https://youtu.be/mQY5UR78t9g)
