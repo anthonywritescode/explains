@@ -649,3 +649,4 @@ the full [playlist] is on youtube
 1. [lazy imports will not be backported ... UNLESS ?](https://youtu.be/mQY5UR78t9g)
 1. [I won't use `monkeypatch` or `pytest-mock`](https://youtu.be/zGwZcSh4voY)
 1. [asserting difficult `==` python objects](https://youtu.be/cf-BkAR5X_o)
+1. [RIP python .pth files](https://youtu.be/vlsJxeo_pSc)
