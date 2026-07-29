@@ -651,3 +651,4 @@ the full [playlist] is on youtube
 1. [asserting difficult `==` python objects](https://youtu.be/cf-BkAR5X_o)
 1. [RIP python .pth files](https://youtu.be/vlsJxeo_pSc)
 1. [what is LTO ?](https://youtu.be/zKsjcI2V2rY)
+1. [lazily initialized module variables in python!](https://youtu.be/abjnA3fQCWE)
