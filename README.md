@@ -653,3 +653,4 @@ the full [playlist] is on youtube
 1. [what is LTO ?](https://youtu.be/zKsjcI2V2rY)
 1. [lazily initialized module variables in python!](https://youtu.be/abjnA3fQCWE)
 1. [revisiting coverage and subprocesses](https://youtu.be/BxmjcJexPeU)
+1. [new things in python 3.15!](https://youtu.be/khIUGLwK-9U)
