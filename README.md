@@ -655,3 +655,4 @@ the full [playlist] is on youtube
 1. [revisiting coverage and subprocesses](https://youtu.be/BxmjcJexPeU)
 1. [new things in python 3.15!](https://youtu.be/khIUGLwK-9U)
 1. [truly private variables in python?](https://youtu.be/g8re0jzh_bI)
+1. [git: the `-m` flag is quite helpful!](https://youtu.be/NaLNmUKvF1w)
