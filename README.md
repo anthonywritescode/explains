@@ -658,3 +658,4 @@ the full [playlist] is on youtube
 1. [git: the `-m` flag is quite helpful!](https://youtu.be/NaLNmUKvF1w)
 1. [developing python entirely offline!](https://youtu.be/0DcsJ2kyfvs)
 1. [use this tool to prevent lazy import mistakes!](https://youtu.be/z0YeuOxOffk)
+1. [is this the end of itertools.chain ?](https://youtu.be/CCgVsl5QKOA)
