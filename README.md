@@ -662,3 +662,4 @@ the full [playlist] is on youtube
 1. [I accidentally made pyflakes way faster???](https://youtu.be/UeWnbKutQ8Q)
 1. [shrinkray: automatically find a minimal reproduction!](https://youtu.be/ZMb_ZVcrd8c)
 1. [the end for JIT in cpython ?](https://youtu.be/shp8AyLb21A)
+1. ["builtin" python modules (\*not\* stdlib!)](https://youtu.be/-zubQmw0iLY)
