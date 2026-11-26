@@ -664,3 +664,4 @@ the full [playlist] is on youtube
 1. [the end for JIT in cpython ?](https://youtu.be/shp8AyLb21A)
 1. ["builtin" python modules (\*not\* stdlib!)](https://youtu.be/-zubQmw0iLY)
 1. [pyflakes mystery solved!](https://youtu.be/9wENOIHi9yA)
+1. [the new None(??) operator for python (PEP 824)](https://youtu.be/IOYtguqoaYw)
